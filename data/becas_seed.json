@@ -1,0 +1,19 @@
+[
+  {
+    "id": "chevening-2026",
+    "nombre": "Chevening Scholarships",
+    "institucion": "UK Government / Foreign Commonwealth & Development Office",
+    "pais_destino": "Reino Unido",
+    "nivel": ["maestria"],
+    "campo": ["cualquier campo"],
+    "cobertura": ["matrícula", "manutención", "vuelos", "visa", "seguro médico"],
+    "deadline": null,
+    "duracion_meses": 12,
+    "idioma_instruccion": ["inglés"],
+    "requisito_idioma": "IELTS 6.5 o equivalente",
+    "requisito_experiencia_años": 2,
+    "paises_elegibles": ["latinoamerica"],
+    "url_oficial": "https://www.chevening.org/",
+    "notas": "Requiere liderazgo demostrado. Deadline usualmente en noviembre."
+  }
+]
