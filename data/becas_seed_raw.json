@@ -1,0 +1,980 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "fecha_generacion": "2026-05-05",
+    "total_becas": 28,
+    "verificadas_completas": 4,
+    "verificadas_parciales": 24,
+    "fuente": "Investigación manual verificada contra fuentes oficiales"
+  },
+  "becas": [
+    {
+      "id": "chevening_uk",
+      "nombre": "Chevening Scholarships",
+      "institucion": "Foreign, Commonwealth & Development Office (FCDO)",
+      "pais_destino": "Reino Unido",
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "seguro"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "12 meses (renovable hasta el final del máster)",
+      "deadline_periodo": "agosto-noviembre",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Título universitario de pregrado equivalente a 2:1 (UK)",
+        "Mínimo dos años de experiencia laboral",
+        "Cumplir con requisitos de idioma inglés (por ejemplo IELTS 6.5+)",
+        "Compromiso de regresar al país de origen por al menos 2 años"
+      ],
+      "experiencia_laboral_min": 2,
+      "idioma_requerido": "inglés C1 (IELTS 6.5+)",
+      "requiere_admision_previa": "no",
+      "requiere_retorno": "si - 2 años mínimo",
+      "vacantes_aprox": "1500 globales (~15-20 para Perú)",
+      "competitividad": "muy_alta",
+      "url_oficial": "https://www.chevening.org/scholarships/",
+      "url_requisitos": "https://www.chevening.org/scholarships/who-can-apply/",
+      "notas": "El programa cubre matrícula universitaria, costos de viaje internacional, gasto de instalación, visa y un estipendio mensual【748985495453800†L25-L49】. Los becarios deben regresar a su país de origen por al menos dos años al finalizar【748985495453800†L470-L488】.",
+      "ultima_verificacion": "2026-05-05"
+    },
+    {
+      "id": "gates_cambridge",
+      "nombre": "Gates Cambridge Scholarship",
+      "institucion": "University of Cambridge / Bill & Melinda Gates Foundation",
+      "pais_destino": "Reino Unido",
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "seguro"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "hasta 4 años (según el programa)",
+      "deadline_periodo": "septiembre-enero",
+      "deadline_exacto_2026": "NO VERIFICADO (depende del programa)",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Excelencia académica demostrada【840177712696221†L54-L101】",
+        "Carta de motivos sólida y proyecto de estudio con impacto",
+        "Compromiso con mejorar la vida de otros【840177712696221†L54-L101】",
+        "Capacidad de liderazgo"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "inglés C1 (según requisitos de admisión de Cambridge)",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "no",
+      "vacantes_aprox": "80-90 globales",
+      "competitividad": "muy_alta",
+      "url_oficial": "https://www.gatescambridge.org/",
+      "url_requisitos": "https://www.gatescambridge.org/apply/eligibility/",
+      "notas": "Cubre la University Composition Fee, un estipendio para manutención (~£22,050/año 2025‑26), un pasaje aéreo al inicio y fin del curso y costos de visa/health surcharge【973045251690291†screenshot】. Elegible para ciudadanos de cualquier país fuera del Reino Unido que apliquen a un posgrado en Cambridge【129319389619725†L74-L104】.",
+      "ultima_verificacion": "2026-05-05"
+    },
+    {
+      "id": "mext_japon",
+      "nombre": "MEXT Scholarship",
+      "institucion": "Ministerio de Educación, Cultura, Deportes, Ciencia y Tecnología de Japón (MEXT)",
+      "pais_destino": "Japón",
+      "nivel": [
+        "maestria",
+        "doctorado",
+        "pregrado",
+        "investigacion"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "hasta 5 años (según el programa)",
+      "deadline_periodo": "abril-mayo",
+      "deadline_exacto_2026": "2026-05-21",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "nacidos el o después del 2 de abril de 1992 para posgrado【99140749491304†L63-L97】",
+      "requisitos_clave": [
+        "Nacionalidad de un país con relaciones diplomáticas con Japón",
+        "Buen expediente académico y título de licenciatura/maestría según nivel",
+        "Conocimiento del idioma japonés o inglés (depende del programa)",
+        "Evaluaciones médicas y exámenes de idioma"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "japonés básico o inglés (según el programa)",
+      "requiere_admision_previa": "no (para investigación se necesita carta de aceptación)",
+      "requiere_retorno": "recomendado",
+      "vacantes_aprox": "varios cientos globales",
+      "competitividad": "alta",
+      "url_oficial": "https://www.studyinjapan.go.jp/en/smap_stopj-applications/rsrch.html",
+      "url_requisitos": "https://studyinjapan.go.jp/ja/_mt/2025/05/2025_Guidelines_Research_en.pdf",
+      "notas": "La beca cubre pasaje aéreo internacional, exoneración total de matrícula y un estipendio mensual entre 143 000 y 145 000 yenes, además de suplementos regionales【99140749491304†L340-L375】. Los postulantes a programas de investigación deben haber nacido después del 2 de abril de 1992 y cumplir requisitos académicos de 16 años de educación para maestrías【99140749491304†L63-L97】. El calendario 2026 para EE. UU. indica que las solicitudes abren en abril, se cierran el 21 de mayo y las entrevistas se realizan en junio-julio【865057442838238†L104-L116】.",
+      "ultima_verificacion": "2026-05-05"
+    },
+    {
+      "id": "swiss_excellence",
+      "nombre": "Swiss Government Excellence Scholarships",
+      "institucion": "Confederación Suiza (State Secretariat for Education, Research and Innovation - SERI)",
+      "pais_destino": "Suiza",
+      "nivel": [
+        "investigacion",
+        "doctorado",
+        "postdoc"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "manutencion",
+        "seguro",
+        "pasajes",
+        "investigacion"
+      ],
+      "tipo_cobertura": "parcial",
+      "duracion_max": "12 meses (investigación/doctorado), 12‑36 meses según programa",
+      "deadline_periodo": "agosto-octubre",
+      "deadline_exacto_2026": "2025-10-20",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "nacidos después del 31 de diciembre de 1990 (para investigación)【667662231887538†L52-L60】",
+      "requisitos_clave": [
+        "Contar con un título de maestría antes del 31 de julio de 2026【667662231887538†L52-L60】",
+        "Propuesta de investigación y carta de aceptación de un supervisor suizo",
+        "Edad máxima (investigación): nacidos después del 31 de diciembre de 1990",
+        "Competencia en idiomas (inglés o francés/alemán, según universidad)"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "según universidad (inglés B2 o idioma local)",
+      "requiere_admision_previa": "si (carta de supervisor)",
+      "requiere_retorno": "no",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "alta",
+      "url_oficial": "https://www.sbfi.admin.ch/sbfi/en/home/services/scholarships-and-grants/swiss-government-excellence-scholarships.html",
+      "url_requisitos": "https://www.sbfi.admin.ch/sbfi/en/home/services/scholarships-and-grants/swiss-government-excellence-scholarships/information-for-the-next-academic-year.html",
+      "notas": "La beca ofrece una asignación mensual de CHF 1 920 para becas de investigación o doctorado y CHF 3 500 para postdoc【667662231887538†L71-L80】. Incluye seguro médico, un depósito de alquiler de CHF 300, tarjeta de transporte a mitad de precio y un vuelo de regreso para nacionales no‑UE/EFTA【667662231887538†L386-L405】. Para Perú, la convocatoria 2026/27 abre el 4 de agosto de 2025 y cierra el 20 de octubre de 2025【849374460151956†L173-L179】.",
+      "ultima_verificacion": "2026-05-05"
+    },
+    {
+      "id": "stipendium_hungaricum",
+      "nombre": "Stipendium Hungaricum",
+      "institucion": "Governo húngaro / Tempus Public Foundation",
+      "pais_destino": "Hungría",
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion"
+      ],
+      "tipo_cobertura": "total (matrícula) + parcial (manutención)",
+      "duracion_max": "24 meses (maestría), 36-48 meses (doctorado)",
+      "deadline_periodo": "diciembre-enero",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite (según programa)",
+      "requisitos_clave": [
+        "Ser nominado por la institución socia (MINEDU u otra) del país de origen",
+        "Cumplir requisitos académicos del nivel solicitado",
+        "Conocimiento de inglés o húngaro (depende del programa)",
+        "Presentar documentos de salud"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "inglés B2 o húngaro (según la carrera)",
+      "requiere_admision_previa": "no (proceso integrado)",
+      "requiere_retorno": "recomendado",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "media",
+      "url_oficial": "https://stipendiumhungaricum.hu/",
+      "url_requisitos": "https://stipendiumhungaricum.hu/",
+      "notas": "La convocatoria 2026/27 indica que la beca cubre la totalidad de la matrícula universitaria y otorga una contribución para alojamiento y gastos de subsistencia【352132493292721†L149-L153】. El cronograma suele abrir en diciembre y cerrar en enero, pero para 2026 aún no se ha publicado la fecha exacta.",
+      "ultima_verificacion": "2026-05-05"
+    },
+    {
+      "id": "commonwealth_uk",
+      "nombre": "Commonwealth Scholarships",
+      "institucion": "Commonwealth Scholarship Commission (CSC)",
+      "pais_destino": "Reino Unido",
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "investigacion"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "12-36 meses (según tipo de beca)",
+      "deadline_periodo": "octubre-diciembre",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Ser ciudadano de un país de la Commonwealth y residente permanente",
+        "Título universitario con mérito alto (generalmente equivalente a 2:1 UK)",
+        "Demostrar necesidad financiera y no haber estudiado previamente en un país de alto ingreso",
+        "Dominio del inglés de acuerdo con la universidad receptora"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "inglés B2-C1",
+      "requiere_admision_previa": "depende (algunas modalidades requieren oferta de admisión)",
+      "requiere_retorno": "si (compromiso de regresar al país de origen)",
+      "vacantes_aprox": "alrededor de 700 becas anuales",
+      "competitividad": "alta",
+      "url_oficial": "https://cscuk.fcdo.gov.uk/",
+      "url_requisitos": "https://cscuk.fcdo.gov.uk/scholarships/",
+      "notas": "El manual del CSC señala que las becas cubren los costos de viaje, tasas académicas y una asignación mensual mientras el becario está en el Reino Unido; las becas de doctorado y split-site también cubren costos de investigación y trabajos de campo【57577810692218†screenshot】. Los detalles exactos de la convocatoria 2026/27 aún no están disponibles, pero normalmente las solicitudes abren en octubre y cierran en diciembre.",
+      "ultima_verificacion": "2026-05-05"
+    },
+    {
+      "id": "clarendon_oxford",
+      "nombre": "Clarendon Fund Scholarships",
+      "institucion": "University of Oxford",
+      "pais_destino": "Reino Unido",
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion"
+      ],
+      "tipo_cobertura": "total (matrícula y manutención)",
+      "duracion_max": "según duración del programa (1–4 años)",
+      "deadline_periodo": "diciembre-enero (depende del programa)",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Solicitar admisión a un máster o DPhil en la Universidad de Oxford y enviar la solicitud antes de la fecha límite de financiación",
+        "Excelencia académica demostrada y cartas de recomendación fuertes",
+        "Ser admitido por el departamento o college y cumplir los requisitos de idioma (inglés)"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "inglés (según requisitos de admisión de Oxford)",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "no",
+      "vacantes_aprox": "alrededor de 200 becas anuales",
+      "competitividad": "muy_alta",
+      "url_oficial": "https://www.clarendon.ox.ac.uk/",
+      "url_requisitos": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/clarendon",
+      "notas": "El Clarendon Fund es el programa de becas emblemático de Oxford. Está abierto a postulantes de todos los países para estudios de máster y doctorado. Cubre la totalidad de las tasas académicas y proporciona una beca para manutención; la consideración es automática al presentar la solicitud de admisión dentro del plazo de financiación【977587812668715†L153-L160】. No se encontraron en la fuente oficial montos exactos de la asignación de manutención ni apoyo para pasajes, de modo que esos aspectos se marcan como no verificados.",
+      "ultima_verificacion": "2026-05-05"
+    },
+    {
+      "id": "rhodes_oxford",
+      "nombre": "Rhodes Scholarship",
+      "institucion": "Rhodes Trust / University of Oxford",
+      "pais_destino": "Reino Unido",
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "visado",
+        "seguro",
+        "otros"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "2-3 años (según la duración de los estudios)",
+      "deadline_periodo": "julio-octubre (depende de la circunscripción)",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "no",
+      "elegibilidad_edad": "NO VERIFICADO (varía por circunscripción)",
+      "requisitos_clave": [
+        "Demostrar excelencia académica【675192358449081†L189-L229】",
+        "Mostrar energía y logros extracurriculares significativos【675192358449081†L189-L229】",
+        "Honestidad, coraje, devoción al deber, empatía y compañerismo【675192358449081†L189-L229】",
+        "Capacidad de liderazgo y compromiso con mejorar la vida de otros【675192358449081†L189-L229】"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "inglés (según requisitos de Oxford)",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "no",
+      "vacantes_aprox": "más de 100 becas anuales",
+      "competitividad": "muy_alta",
+      "url_oficial": "https://www.rhodeshouse.ox.ac.uk/scholarships/",
+      "url_requisitos": "https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship-selection-criteria/",
+      "notas": "La beca cubre las tasas de la Universidad de Oxford, un estipendio anual de £20 400 (≈£1 700 al mes) para manutención, el costo de la solicitud, la visa y el seguro de salud, dos pasajes de avión y un monto de instalación【914702833032102†L221-L248】. Los criterios de selección se basan en la excelencia académica, la energía para aprovechar el talento, valores como la honestidad y empatía, y la capacidad de liderazgo【675192358449081†L189-L229】. Actualmente no existe una circunscripción para Perú; la categoría global está suspendida【722982638891109†L187-L239】, por lo que nacionales peruanos no son elegibles.",
+      "ultima_verificacion": "2026-05-05"
+    },
+    {
+      "id": "daad_masters",
+      "nombre": "DAAD Study Scholarships – Master Studies for All Academic Disciplines",
+      "institucion": "German Academic Exchange Service (DAAD)",
+      "pais_destino": "Alemania",
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "manutencion",
+        "seguro",
+        "pasajes",
+        "otros"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "10-24 meses (según el programa)【570327300118728†L74-L85】",
+      "deadline_periodo": "junio-septiembre (se actualiza cada año)",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite (el título no debe tener más de 6 años)【570327300118728†L170-L299】",
+      "requisitos_clave": [
+        "Poseer un título de licenciatura obtenido en los últimos seis años【570327300118728†L170-L299】",
+        "No haber residido en Alemania más de 15 meses al cierre de la convocatoria【570327300118728†L170-L299】",
+        "Contar con carta de admisión a un máster alemán o demostrar que se está tramitando",
+        "Cumplir con los requisitos de idioma (alemán o inglés) del programa",
+        "Presentar un plan de estudios y carta de motivación convincentes"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "alemán o inglés (según el máster)",
+      "requiere_admision_previa": "no (la admisión puede presentarse posteriormente)",
+      "requiere_retorno": "no",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "alta",
+      "url_oficial": "https://www.daad.de/en/study-and-research-in-germany/scholarships/study-scholarships-master-studies-for-all-academic-disciplines/",
+      "url_requisitos": "https://www.daad.de/en/study-and-research-in-germany/scholarships/study-scholarships-master-studies-for-all-academic-disciplines/",
+      "notas": "El programa de maestría del DAAD ofrece un pago mensual de 992 €, contribuciones al seguro de salud, de accidentes y de responsabilidad civil, una asignación de viaje y un subsidio anual para gastos de estudio de 460 €. También se pueden solicitar subsidios para el alquiler y el acompañamiento familiar. Las convocatorias se publican anualmente, suelen abrir en junio y cerrar a inicios del otoño; el financiamiento debe comenzar en 2026【570327300118728†L88-L125】【570327300118728†L74-L85】.",
+      "ultima_verificacion": "2026-05-05"
+    },
+    {
+      "id": "erasmus_mundus",
+      "nombre": "Erasmus Mundus Joint Master Degrees (EMJM)",
+      "institucion": "Comisión Europea / European Education and Culture Executive Agency (EACEA)",
+      "pais_destino": "Unión Europea (varios países)",
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "instalacion",
+        "seguro"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "12-24 meses",
+      "deadline_periodo": "octubre-enero",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Poseer un título de licenciatura o equivalente (al menos 180 ECTS)",
+        "Cumplir con los requisitos académicos y de idioma establecidos por el consorcio del máster",
+        "No haber recibido previamente una beca Erasmus Mundus para el mismo nivel",
+        "Enviar la solicitud directamente al consorcio durante el periodo de admisión"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "inglés (nivel B2-C1) y otros idiomas según el programa",
+      "requiere_admision_previa": "si (solicitud al consorcio)",
+      "requiere_retorno": "no",
+      "vacantes_aprox": "aprox. 15-30 becas por máster",
+      "competitividad": "alta",
+      "url_oficial": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
+      "url_requisitos": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/erasmus-mundus-action",
+      "notas": "Las becas EMJM incluyen una contribución a los costos de participación (matrícula, biblioteca, laboratorio y seguro) de hasta 9 000 € al año para estudiantes de países asociados【859291780924970†L220-L265】. Además proporcionan una contribución a los gastos de viaje y de instalación: 1 000 € al año para residentes en países del programa, o bien 2 000 €–3 000 € al año más un único pago de 1 000 € para residentes de países asociados según la distancia【859291780924970†L274-L292】. La asignación de subsistencia se calcula a 1 400 € por mes durante toda la duración del máster【229796885291993†L729-L756】. Las solicitudes suelen abrir entre octubre y enero y deben realizarse directamente con cada consorcio【501463752194678†L170-L187】.",
+      "ultima_verificacion": "2026-05-05"
+    },
+    {
+      "id": "eiffel_france",
+      "nombre": "France Excellence Eiffel Scholarship",
+      "institucion": "Ministère de l’Europe et des Affaires étrangères / Campus France",
+      "pais_destino": "Francia",
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "áreas prioritarias como ciencias, ingeniería, derecho, economía y gestión, ciencias políticas, historia y civilización francesa"
+      ],
+      "cobertura": [
+        "manutencion",
+        "pasajes",
+        "seguro",
+        "estadia"
+      ],
+      "tipo_cobertura": "total (manutención y servicios; no cubre matrícula)",
+      "duracion_max": "12-36 meses (según nivel y programa)【122288903493594†L264-L266】",
+      "deadline_periodo": "octubre-enero",
+      "deadline_exacto_2026": "abre 2025-10-01 y cierra 2026-01-08【824015555529690†L424-L427】",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "menores de 29 años para máster; menores de 35 años para doctorado【824015555529690†L418-L420】",
+      "requisitos_clave": [
+        "Ser nominado por una institución de educación superior francesa; las candidaturas individuales no son aceptadas【173634140004536†L500-L518】",
+        "No haber sido beneficiario de otra beca del Gobierno francés",
+        "No cursar estudios en Francia en el momento de la postulación (para máster)",
+        "Presentar expediente académico excelente y cumplir requisitos de idioma (francés o inglés)",
+        "Cumplir la edad máxima: 29 años para máster y 35 años para doctorado【824015555529690†L418-L420】"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "francés o inglés (según el programa)",
+      "requiere_admision_previa": "no (la institución gestiona la admisión y la candidatura)",
+      "requiere_retorno": "no",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "alta",
+      "url_oficial": "https://www.campusfrance.org/en/the-france-excellence-eiffel-scholarship-program",
+      "url_requisitos": "https://www.campusfrance.org/en/france-excellence-eiffel-scholarship-implementation",
+      "notas": "La beca otorga una asignación mensual de 1 200 € para máster y 2 100 € para doctorado (aplicable desde enero de 2026)【173634140004536†L476-L491】【848966897229827†L560-L573】. Cubre también el transporte internacional y nacional, la inscripción en un seguro de salud, ayuda con la búsqueda de alojamiento y actividades culturales【173634140004536†L476-L491】【848966897229827†L596-L639】. No cubre la matrícula, aunque los becarios del gobierno francés pueden estar exentos de tasas en instituciones públicas【848966897229827†L584-L592】. La campaña 2026 abre el 1 de octubre de 2025 y se cierra el 8 de enero de 2026; los resultados se publican el 30 de marzo de 2026【824015555529690†L424-L427】.",
+      "ultima_verificacion": "2026-05-05"
+    },
+    {
+      "nombre": "Beca de Posgrado Fulbright",
+      "pais": "Estados Unidos",
+      "url": "https://fulbright.pe/becaposgradofulbright",
+      "tipo": "Maestría/Doctorado",
+      "cobertura": {
+        "pasaje": false,
+        "matricula": true,
+        "hospedaje": true,
+        "seguro_medico": true,
+        "estipendio_mensual": "NO VERIFICADO (existe un estipendio de alojamiento, comida y transporte)"
+      },
+      "elegible_peru": true,
+      "tiempo_postulacion": "Convocatoria 2026: documentos hasta 26 de abril; entrevistas mayo–junio; selección en junio",
+      "fecha_cierre": "26 de abril (convocatoria 2026)",
+      "duracion": "hasta 21 meses",
+      "exigencias": [
+        "Nacionalidad peruana y residencia en Perú",
+        "No tener ciudadanía/visa de EE.UU.",
+        "Dominio de inglés (TOEFL iBT ≥ 90 o TOEFL ITP ≥ 577 con speaking 58; puntuaciones superiores para PhD/LLM)",
+        "Título universitario y excelente historial académico",
+        "Al menos dos años de experiencia profesional",
+        "Compromiso de regresar al país"
+      ],
+      "observaciones": "Programa parcial financiado por la Comisión Fulbright; incluye visa J‑1, orientación para postular a universidades y exoneración de tasas académicas; estipendio para manutención y seguro médico ASPE【848629408075356†screenshot】.",
+      "fuente": [
+        "【848629408075356†screenshot】",
+        "【369052789538793†screenshot】",
+        "【261359052593541†screenshot】"
+      ]
+    },
+    {
+      "nombre": "Hubert H. Humphrey Fellowship",
+      "pais": "Estados Unidos",
+      "url": "https://fulbright.pe/hhhfellowship",
+      "tipo": "Programa profesional (no conduce a grado)",
+      "cobertura": {
+        "pasaje": true,
+        "matricula": true,
+        "hospedaje": true,
+        "seguro_medico": true,
+        "estipendio_mensual": "NO VERIFICADO (monto no especificado)"
+      },
+      "elegible_peru": true,
+      "tiempo_postulacion": "Convocatoria 2026: documentos hasta 10 de agosto; entrevistas en agosto; nominación en septiembre; examen TOEFL y entrega de documentos en septiembre; resultados febrero–marzo 2026",
+      "fecha_cierre": "10 de agosto (convocatoria 2026)",
+      "duracion": "un año académico",
+      "exigencias": [
+        "Nacionalidad peruana y residencia en Perú, sin ciudadanía/visa de EE.UU.",
+        "Dominio de inglés (TOEFL iBT ≥ 90 o TOEFL ITP ≥ 577 con speaking 58)",
+        "Título universitario",
+        "Cinco años de experiencia profesional en un área de interés público",
+        "Dos cartas de recomendación",
+        "Compromiso de retornar al país"
+      ],
+      "observaciones": "Fellowship integral que cubre transporte, derechos universitarios, estipendio mensual, seguro médico y fondos para viajes de campo y conferencias; no cubre gastos de dependientes【107023648348188†screenshot】.",
+      "fuente": [
+        "【107023648348188†screenshot】",
+        "【241340691254597†screenshot】"
+      ]
+    },
+    {
+      "nombre": "Beca Académica de la OEA",
+      "pais": "Multinacional (Organización de Estados Americanos)",
+      "url": "https://www.oas.org/en/scholarships/Academic_Program_OAS_2026.asp",
+      "tipo": "Maestría/Doctorado",
+      "cobertura": {
+        "pasaje": true,
+        "matricula": true,
+        "hospedaje": true,
+        "seguro_medico": true,
+        "estipendio_mensual": "Complementario (la beca es hasta US$10 000 por año y no cubre el 100 % de los gastos)"
+      },
+      "elegible_peru": true,
+      "tiempo_postulacion": "Preselección en el país de origen (plazos varían); envío de solicitud en línea a la OEA hasta 3 de abril de 2026【90706786431409†L424-L425】",
+      "fecha_cierre": "3 de abril de 2026 (presentación en línea a la OEA)",
+      "duracion": "hasta 2 años",
+      "exigencias": [
+        "Ser ciudadano o residente permanente de un Estado miembro de la OEA",
+        "Dominio del idioma del país de estudios",
+        "Tener título universitario de nivel licenciatura y promedio mínimo",
+        "Buen estado físico y mental",
+        "Cumplir requisitos adicionales de la Oficina Nacional de Enlace del país"
+      ],
+      "observaciones": "Beca complementaria con tope de US$10 000 por año académico; prioriza matrícula, seguro de salud, asignación complementaria para sustento, pasaje aéreo y subsidio anual para libros【90706786431409†L383-L393】.",
+      "fuente": [
+        "【90706786431409†L332-L347】",
+        "【90706786431409†L383-L393】",
+        "【90706786431409†L424-L425】"
+      ]
+    },
+    {
+      "nombre": "Vanier Canada Graduate Scholarship",
+      "pais": "Canadá",
+      "url": "https://www.vanier.gc.ca/",
+      "tipo": "Doctorado",
+      "cobertura": {
+        "pasaje": false,
+        "matricula": "NO VERIFICADO",
+        "hospedaje": true,
+        "seguro_medico": false,
+        "estipendio_mensual": "CA$50 000 por año (aprox.)"
+      },
+      "elegible_peru": true,
+      "tiempo_postulacion": "NO VERIFICADO (las convocatorias suelen cerrar a finales de agosto; la competencia de 2025 será la última)",
+      "fecha_cierre": "NO VERIFICADO",
+      "duracion": "hasta 3 años (no renovable)",
+      "exigencias": [
+        "Ser nominado por una universidad canadiense",
+        "Demostrar excelencia académica y potencial de investigación",
+        "Mostrar liderazgo y logros extracurriculares",
+        "Aplicable a doctorandos y programas combinados (MA/PhD, MD/PhD)",
+        "Abierto a ciudadanos canadienses, residentes permanentes e internacionales【564731245987829†L8-L12】"
+      ],
+      "observaciones": "Programa financiado por el gobierno canadiense que otorga CA$50 000 anuales durante tres años para apoyar estudios de doctorado; se encuentra en proceso de cierre【564731245987829†L8-L12】.",
+      "fuente": [
+        "【564731245987829†L8-L12】"
+      ]
+    },
+    {
+      "nombre": "Banting Postdoctoral Fellowships",
+      "pais": "Canadá",
+      "url": "https://banting.fellowships-bourses.gc.ca/",
+      "tipo": "Postdoctorado",
+      "cobertura": {
+        "pasaje": false,
+        "matricula": false,
+        "hospedaje": true,
+        "seguro_medico": false,
+        "estipendio_mensual": "CA$70 000 por año (2 años)"
+      },
+      "elegible_peru": true,
+      "tiempo_postulacion": "NO VERIFICADO (en convocatorias anteriores las solicitudes institucionales se presentaban en agosto y el cierre nacional era en septiembre)",
+      "fecha_cierre": "NO VERIFICADO",
+      "duracion": "2 años",
+      "exigencias": [
+        "Tener un doctorado reciente (o equivalente) al inicio de la beca",
+        "Realizar la investigación en una institución canadiense y alinear el proyecto con las prioridades estratégicas de la institución",
+        "Demostrar excelencia académica y liderazgo",
+        "Abierto a ciudadanos canadienses e internacionales【919532419864574†L72-L90】"
+      ],
+      "observaciones": "Programa que otorga 70 becas anuales; cada una concede CA$70 000 por año durante dos años; no proporciona fondos adicionales para viajes o investigación y ha sido reemplazado por el Canada Postdoctoral Research Award【919532419864574†L72-L87】【9647482827353†screenshot】.",
+      "fuente": [
+        "【919532419864574†L72-L87】",
+        "【9647482827353†screenshot】"
+      ]
+    },
+    {
+      "id": "nl_scholarship",
+      "nombre": "NL Scholarship (antigua Holland Scholarship)",
+      "institucion": "Ministerio de Educación, Cultura y Ciencia de los Países Bajos y universidades participantes",
+      "pais_destino": "Países Bajos",
+      "nivel": [
+        "pregrado",
+        "maestria"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "otros"
+      ],
+      "tipo_cobertura": "parcial (aporte único de €5 000 durante el primer año, no cubre toda la matrícula ni la manutención)【62853203717115†L61-L68】",
+      "duracion_max": "1 año (el monto solo se otorga una vez)",
+      "deadline_periodo": "a partir del 1 nov 2025; cada universidad fija su cierre【62853203717115†L112-L117】【62853203717115†L171-L175】",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Tener nacionalidad de un país fuera del Espacio Económico Europeo【62853203717115†L61-L79】",
+        "Solicitar un programa de licenciatura o maestría a tiempo completo en una institución participante【62853203717115†L74-L79】",
+        "Cumplir con los requisitos específicos de la universidad elegida【62853203717115†L74-L79】",
+        "No haber obtenido un grado en una institución neerlandesa【62853203717115†L74-L79】"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "inglés u holandés (según el programa)",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "no",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "alta",
+      "url_oficial": "https://www.studyinnl.org/finances/nl-scholarship",
+      "url_requisitos": "https://www.studyinnl.org/finances/nl-scholarship",
+      "notas": "La NL Scholarship, antes conocida como Holland Scholarship, es financiada por el gobierno neerlandés y varias universidades. Ofrece un aporte único de €5 000 para el primer año de estudios y no constituye una beca completa. Es necesario solicitar admisión en una universidad participante; cada institución establece sus campos de estudio y plazos de cierre. Esta beca está abierta a estudiantes de nacionalidad no‑EEA, por lo que los ciudadanos peruanos son elegibles【62853203717115†L61-L79】. No se encontraron fechas exactas ni número de vacantes para 2026, de modo que dichos campos se marcan como no verificados.",
+      "ultima_verificacion": "2026-05-05"
+    },
+    {
+      "id": "si_global_professionals",
+      "nombre": "Swedish Institute Scholarship for Global Professionals (SISGP)",
+      "institucion": "Swedish Institute",
+      "pais_destino": "Suecia",
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "gobernanza",
+        "salud pública",
+        "emprendimiento e innovación",
+        "STEM",
+        "otros"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "otros"
+      ],
+      "tipo_cobertura": "total (matrícula, estipendio mensual y subsidio de viaje)【402644237218368†L196-L223】",
+      "duracion_max": "1-2 años (según el programa de maestría)",
+      "deadline_periodo": "16 oct 2025 – 25 feb 2026 (fase de admisión y solicitud)【402644237218368†L178-L188】",
+      "deadline_exacto_2026": "Solicitudes a la universidad: 16 oct 2025 – 15 ene 2026; solicitud de la beca: 9 – 25 feb 2026【402644237218368†L178-L186】",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Ser ciudadano de uno de los 34 países elegibles (incluido Perú)【402644237218368†L166-L259】",
+        "Postular a un programa de maestría elegible y ser admitido en una universidad sueca【402644237218368†L166-L174】",
+        "Ser responsable de pagar matrícula en Suecia (es decir, no tener exención de tasas)【402644237218368†L169-L173】",
+        "Tener experiencia laboral y capacidad de liderazgo demostradas【402644237218368†L174-L176】"
+      ],
+      "experiencia_laboral_min": "NO VERIFICADO",
+      "idioma_requerido": "inglés (según el programa)",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "no (se espera contribución al desarrollo, pero no hay obligación formal)",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "alta",
+      "url_oficial": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/",
+      "url_requisitos": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/",
+      "notas": "Las becas SISGP están diseñadas para profesionales que deseen contribuir al desarrollo sostenible en sus países de origen. Cubre completamente la matrícula, otorga un estipendio mensual de 12 000 SEK para gastos de vida, una subvención de viaje de 15 000 SEK (10 000 para ciertos países) y acceso a la red NFGP【402644237218368†L196-L223】. No incluye seguro ni apoyo económico para familiares. La convocatoria abre cada otoño; en 2026, la solicitud a la universidad es del 16 octubre 2025 al 15 enero 2026 y la solicitud de la beca se presenta del 9 al 25 febrero 2026【402644237218368†L178-L186】.",
+      "ultima_verificacion": "2026-05-05"
+    },
+    {
+      "id": "edinburgh_global_research",
+      "nombre": "Edinburgh Global Research Scholarship",
+      "institucion": "University of Edinburgh",
+      "pais_destino": "Reino Unido",
+      "nivel": [
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula-parcial"
+      ],
+      "tipo_cobertura": "parcial (cubre la diferencia entre la matrícula del Reino Unido/UE y la tarifa para estudiantes internacionales; no cubre manutención)【874720984005544†L900-L910】",
+      "duracion_max": "hasta 3 años【874720984005544†L904-L910】",
+      "deadline_periodo": "enero-febrero (basado en convocatorias anteriores)",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Ser admitido en un programa de doctorado a tiempo completo en la Universidad de Edinburgh【874720984005544†L910-L917】",
+        "Ser estudiante con tarifa internacional (pagar matrícula de ultramar)【874720984005544†L910-L916】",
+        "Demostrar excelencia académica y potencial de investigación【874720984005544†L910-L917】"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "inglés (según requisitos de admisión)",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "no",
+      "vacantes_aprox": "≈ 30 becas anuales【874720984005544†L900-L905】",
+      "competitividad": "alta",
+      "url_oficial": "https://www.ed.ac.uk/student-funding/postgraduate/international/global-research",
+      "url_requisitos": "https://www.ed.ac.uk/student-funding/postgraduate/international/global-research",
+      "notas": "La Universidad de Edinburgh ofrece alrededor de 30 becas Global Research para estudiantes internacionales de doctorado. Cada beca cubre únicamente la diferencia entre la matrícula doméstica y la tarifa internacional, por lo que el becario debe financiar sus gastos de manutención. La duración máxima es de tres años y la selección se basa en el mérito académico. La fecha de cierre suele ser en febrero, pero no se encontró la convocatoria oficial para 2026【874720984005544†L900-L919】.",
+      "ultima_verificacion": "2026-05-05"
+    },
+    {
+      "id": "gks_graduate",
+      "nombre": "Global Korea Scholarship (GKS) – Programa de posgrado",
+      "institucion": "Instituto Nacional para la Educación Internacional (NIIED), Gobierno de Corea",
+      "pais_destino": "Corea del Sur",
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "idioma",
+        "otros"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "3 años para maestría (1 año de coreano + 2 años de estudios) y 4 años para doctorado (1 año de coreano + 3 años de estudios)【603747838351960†L65-L75】",
+      "deadline_periodo": "febrero-abril 2026 (según embajada o universidad)【603747838351960†L105-L122】",
+      "deadline_exacto_2026": "19 feb 2026 – 1 abr 2026 (ejemplo de la Keimyung University)【603747838351960†L105-L122】",
+      "elegibilidad_nacionalidad": "VERIFICAR",
+      "elegibilidad_edad": "< 40 años (nacido después del 1 sep 1986)【603747838351960†L24-L25】",
+      "requisitos_clave": [
+        "El solicitante y sus padres deben tener ciudadanía extranjera y provenir de un país designado por NIIED【603747838351960†L16-L24】",
+        "Ser menor de 40 años a 1 de septiembre de 2026【603747838351960†L24-L25】",
+        "Poseer título de licenciatura (para maestría) o de maestría (para doctorado) antes del 31 jul 2026【603747838351960†L31-L33】",
+        "No haber completado previamente un grado en Corea y contar con un promedio mínimo equivalente al 80 %【603747838351960†L34-L40】"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "inglés o coreano (se proporciona curso de coreano)",
+      "requiere_admision_previa": "no (la admisión se gestiona tras la selección)【603747838351960†L42-L60】",
+      "requiere_retorno": "NO VERIFICADO",
+      "vacantes_aprox": "≈ 1 900 becas de posgrado (dato general)",
+      "competitividad": "alta",
+      "url_oficial": "https://www.studyinkorea.go.kr",
+      "url_requisitos": "https://gs.kmu.ac.kr/sites/gs/files/GKS/2026/2026GKSatKMU.pdf",
+      "notas": "La beca GKS cubre los boletos de avión de ida y vuelta, la matrícula completa, un curso intensivo de idioma coreano, un estipendio mensual de aproximadamente 1 300 000 KRW, la totalidad de las tasas de idioma y un incentivo único de 300 000 KRW para quienes posean nivel TOPIK 5 o 6【603747838351960†L65-L97】. La convocatoria se gestiona a través de embajadas coreanas o universidades designadas; en el ejemplo de Keimyung University, las solicitudes se aceptaron del 19 febrero al 1 abril 2026 y los resultados se anunciaron en abril y junio【603747838351960†L105-L122】. No se pudo confirmar si Perú figura entre los países invitados por NIIED, por lo que la elegibilidad se marca como ‘VERIFICAR’.",
+      "ultima_verificacion": "2026-05-05"
+    },
+    {
+      "id": "australia_awards",
+      "nombre": "Australia Awards Scholarships",
+      "institucion": "Departamento de Asuntos Exteriores y Comercio del Gobierno de Australia (DFAT)",
+      "pais_destino": "Australia",
+      "nivel": [
+        "pregrado",
+        "maestria"
+      ],
+      "campos_estudio": [
+        "prioridades según país participante"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "seguro",
+        "otros"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "duración mínima necesaria del programa (según la universidad)【228771203307394†L798-L800】",
+      "deadline_periodo": "1 feb – 30 abr 2026【228771203307394†L808-L809】",
+      "deadline_exacto_2026": "1 feb 2026 – 30 abr 2026【228771203307394†L808-L809】",
+      "elegibilidad_nacionalidad": "NO VERIFICADO",
+      "elegibilidad_edad": "sin limite (varía por país)",
+      "requisitos_clave": [
+        "Ser ciudadano de un país participante designado por Australia Awards【228771203307394†L798-L809】",
+        "Presentar un plan de retorno y Re‑Entry Action Plan (REAP) para contribuir al desarrollo del país de origen【228771203307394†L816-L887】",
+        "No haber recibido anteriormente una Australia Awards Scholarship y cumplir con los requisitos académicos e idiomáticos de la institución australiana",
+        "Solicitar la beca dentro del periodo de apertura (1 febrero – 30 abril)"
+      ],
+      "experiencia_laboral_min": "NO VERIFICADO",
+      "idioma_requerido": "inglés (IELTS/TOEFL según institución)",
+      "requiere_admision_previa": "no (la admisión se tramita después de la beca)",
+      "requiere_retorno": "si (se debe retornar al país de origen por al menos dos años)",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "alta",
+      "url_oficial": "https://www.dfat.gov.au/people-to-people/australia-awards",
+      "url_requisitos": "https://www.australiaawardsphilippines.org/webpages/scholarships/applicants#inclusions",
+      "notas": "De acuerdo con el sitio de Australia Awards en Filipinas, los becarios reciben pasajes de ida y vuelta, matrícula completa, una contribución a los gastos de subsistencia, un programa académico introductorio, cobertura médica para estudiantes internacionales, apoyo académico complementario, una asignación de campo para estudiantes de investigación, una asignación de instalación y servicios de apoyo pastoral y para discapacidad【228771203307394†L710-L799】. Los beneficiarios deben desarrollar un Re‑Entry Action Plan y regresar a su país al terminar los estudios【228771203307394†L816-L887】. La convocatoria para 2026 está abierta del 1 de febrero al 30 de abril. La elegibilidad por país no pudo confirmarse para Perú (por lo general se dirige a países de Asia y el Pacífico), por lo que se marca como no verificada.",
+      "ultima_verificacion": "2026-05-05"
+    },
+    {
+      "nombre": "Manaaki New Zealand Scholarship",
+      "pais": "Nueva Zelanda",
+      "cobertura": {
+        "matricula": "Sí. Cubre matrícula y tasas de laboratorio de los programas neozelandeses【516291765682928†L1955-L1959】",
+        "manutencion": "Sí. Estipendio de aproximadamente NZ$491 por semana para gastos diarios y se paga quincenalmente【516291765682928†L1955-L1959】",
+        "pasaje": "Reembolso de pasaje internacional de reencuentro y apoyo para viaje de investigación según el programa【516291765682928†L1975-L1989】",
+        "seguro": "Sí. Seguro médico y de viaje básico durante la estancia【516291765682928†L1961-L1964】",
+        "otros": "Ayuda de instalación inicial de NZ$3 000 y asignaciones anuales de NZ$1 000【516291765682928†L1999-L2043】【516291765682928†L2059-L2079】; subsidios de tutoría y tesis【516291765682928†L2116-L2139】"
+      },
+      "valor_monetario": "Varios beneficios: estipendio NZ$491/semana y ayudas iniciales (valor total depende de la duración)",
+      "duracion": "Duración del programa académico (pregrado, posgrado o doctorado; de 1 a 4 años)",
+      "fecha_limite": "NO VERIFICADO – el sitio oficial no publica aún fechas exactas para la convocatoria 2026-2027【123964380659619†L46-L63】",
+      "elegibilidad_peruanos": "sí (Perú figura entre los países elegibles de Latinoamérica para becas temáticas【502095894871033†L119-L123】)",
+      "requisitos": "Ser ciudadano de un país elegible (no tener residencia en países desarrollados), haber vivido en el país de origen los últimos dos años, tener al menos 18 años, no haber sido becario Manaaki con cancelación previa y cumplir requisitos académicos de la institución neozelandesa【502095894871033†L124-L147】",
+      "restricciones_obligaciones": "Los becarios deben cumplir el código de conducta de Manaaki y utilizar la beca para terminar su programa en el plazo estipulado"
+    },
+    {
+      "nombre": "Chinese Government Scholarship (CSC)",
+      "pais": "China",
+      "cobertura": {
+        "matricula": "Sí. Exención total de tasas académicas【137204737940517†L23-L32】",
+        "manutencion": "Sí. Estipendio mensual de CNY 2 500–3 500 según el nivel de estudios【137204737940517†L31-L33】",
+        "pasaje": "Sí. Pasaje aéreo internacional de ida y vuelta【137204737940517†L31-L34】",
+        "seguro": "Sí. Seguro médico comprensivo【137204737940517†L28-L33】",
+        "otros": "Alojamiento gratuito en campus o subsidio de alojamiento【137204737940517†L28-L33】"
+      },
+      "valor_monetario": "Estipendio mensual de 2 500–3 500 CNY y exención completa de matrícula y alojamiento",
+      "duracion": "1–3 años para maestría, 4–5 años para doctorado【759134193221820†L139-L144】",
+      "fecha_limite": "10 de enero de 2026 para el programa bilateral (Tipo A) según la embajada de China en Bangladesh【137204737940517†L23-L44】; para otros programas la convocatoria suele abrir entre noviembre y febrero【759134193221820†L87-L92】",
+      "elegibilidad_peruanos": "sí (los programas están abiertos a ciudadanos de países en desarrollo; no se excluye a Perú)",
+      "requisitos": "Ser ciudadano de país distinto a China, en buen estado de salud, tener título académico apropiado (menos de 35 años para maestría y 40 para doctorado), acreditar nivel de idioma chino para programas impartidos en chino y ser admitido por una universidad participante【759134193221820†L103-L118】",
+      "restricciones_obligaciones": "No haber recibido otra beca del gobierno chino y no combinar con otras ayudas; los estudiantes deben cumplir los reglamentos de la universidad y mantener buen rendimiento académico"
+    },
+    {
+      "nombre": "KAUST Fellowship",
+      "pais": "Arabia Saudita",
+      "cobertura": {
+        "matricula": "Sí. Cobertura total de matrícula y costos de laboratorio (hasta USD 35 000 al año)【403484777676351†screenshot】",
+        "manutencion": "Sí. Estipendio anual de USD 20 000 para maestría y USD 25 000–30 000 para doctorado【403484777676351†screenshot】",
+        "pasaje": "Sí. Apoyo para visa, traslado y viajes internacionales【403484777676351†screenshot】",
+        "seguro": "Sí. Seguro médico valorado en USD 1 450 al año【403484777676351†screenshot】",
+        "otros": "Alojamiento en campus con servicios incluidos (equivalente a USD 7 000/año)【403484777676351†screenshot】"
+      },
+      "valor_monetario": "Valor estimado del paquete entre USD 70 000 y 80 000 por año【403484777676351†screenshot】",
+      "duracion": "Duración de la maestría (2 años) o del doctorado (3–4 años) dependiendo del programa",
+      "fecha_limite": "Para admisión de otoño 2026: solicitudes abiertas desde el 15 de agosto de 2025 y cierre el 7 de mayo de 2026【361953153758899†L53-L59】; para admisión de primavera 2026: cierre el 1 de octubre de 2025【361953153758899†L65-L71】",
+      "elegibilidad_peruanos": "sí (no hay restricciones de nacionalidad)",
+      "requisitos": "Ser admitido en un programa de KAUST (maestría o doctorado) con expediente académico sobresaliente; presentar cartas de recomendación y certificado de inglés; no se requiere solicitud separada para la beca【882845265056112†L97-L103】",
+      "restricciones_obligaciones": "Algunos estudiantes patrocinados externamente pueden no ser elegibles; se espera dedicación a tiempo completo y cumplimiento de las políticas universitarias"
+    },
+    {
+      "nombre": "Aga Khan Foundation – International Scholarship Programme (ISP)",
+      "pais": "Global (varios países)",
+      "cobertura": {
+        "matricula": "NO VERIFICADO",
+        "manutencion": "NO VERIFICADO",
+        "pasaje": "NO VERIFICADO",
+        "seguro": "NO VERIFICADO",
+        "otros": "NO VERIFICADO"
+      },
+      "valor_monetario": "NO VERIFICADO",
+      "duracion": "NO VERIFICADO",
+      "fecha_limite": "NO VERIFICADO",
+      "elegibilidad_peruanos": "NO VERIFICADO",
+      "requisitos": "NO VERIFICADO",
+      "restricciones_obligaciones": "NO VERIFICADO"
+    },
+    {
+      "nombre": "Joint Japan/World Bank Graduate Scholarship Program (JJ/WBGSP)",
+      "pais": "Japón/Banco Mundial",
+      "cobertura": {
+        "matricula": "Sí. Cubre la matrícula completa del programa de maestría【186781498594510†screenshot】",
+        "manutencion": "Sí. Estipendio mensual para costos de vida【186781498594510†screenshot】",
+        "pasaje": "Sí. Pasajes de ida y vuelta en clase económica y subsidio de viaje adicional【186781498594510†screenshot】",
+        "seguro": "Sí. Seguro médico【186781498594510†screenshot】",
+        "otros": "NO VERIFICADO"
+      },
+      "valor_monetario": "No especificado; incluye matrícula, estipendio mensual y viajes",
+      "duracion": "Duración del programa de maestría (1–2 años)",
+      "fecha_limite": "Ventana 1: 15 de enero – 27 de febrero de 2026; Ventana 2: 30 de marzo – 29 de mayo de 2026【103470971767758†screenshot】",
+      "elegibilidad_peruanos": "sí (Perú es país miembro en desarrollo del Banco Mundial)",
+      "requisitos": "Ser nacional de un país en desarrollo del Banco Mundial, no tener doble nacionalidad con país desarrollado, gozar de buena salud, poseer título universitario obtenido al menos 3 años antes y al menos 3 años de experiencia laboral a tiempo completo en desarrollo; estar admitido sin condiciones en un programa de maestría participante y haber sido preseleccionado por la universidad【186781498594510†screenshot】",
+      "restricciones_obligaciones": "Los becarios deben comprometerse a regresar a su país de origen para contribuir al desarrollo social y económico después de completar la maestría【103470971767758†screenshot】"
+    },
+    {
+      "id": "ofid_scholarship",
+      "nombre": "OFID Scholarship Award",
+      "institucion": "OPEC Fund for International Development",
+      "pais": "varios países (cualquier país en desarrollo)",
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "NO VERIFICADO"
+      ],
+      "tipo_cobertura": "NO VERIFICADO",
+      "duracion_max": "NO VERIFICADO",
+      "deadline_periodo": "NO VERIFICADO",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "NO VERIFICADO",
+      "elegibilidad_edad": "NO VERIFICADO",
+      "requisitos_clave": [
+        "NO VERIFICADO"
+      ],
+      "experiencia_laboral_min": "NO VERIFICADO",
+      "idioma_requerido": "NO VERIFICADO",
+      "requiere_admision_previa": "NO VERIFICADO",
+      "requiere_retorno": "NO VERIFICADO",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "NO VERIFICADO",
+      "url_oficial": "https://opecfund.org/operations/grants/scholarship-award",
+      "url_requisitos": "https://opecfund.org/operations/grants/scholarship-award",
+      "notas": "El OPEC Fund anunció que su programa de becas está siendo reestructurado y actualmente no acepta solicitudes, por lo que no se pudo verificar cobertura ni requisitos【876564141613901†L0-L8】.",
+      "ultima_verificacion": "2026-05-05"
+    },
+    {
+      "id": "adb_japan",
+      "nombre": "ADB-Japan Scholarship Program (ADB-JSP)",
+      "institucion": "Asian Development Bank / Gobierno de Japón",
+      "pais": "Asia y Pacífico (instituciones designadas)",
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "economía",
+        "gestión",
+        "ciencia y tecnología",
+        "política pública",
+        "estudios de desarrollo"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "libros",
+        "seguro",
+        "pasajes"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "1-2 años (duración de la maestría)",
+      "deadline_periodo": "dependiente de la institución asociada",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "no (Perú no es país miembro prestatario del ADB)",
+      "elegibilidad_edad": "≤ 35 años (salvo excepciones)【920773330756233†L354-L368】",
+      "requisitos_clave": [
+        "Ser ciudadano de un país miembro prestatario del ADB y elegible para la ODA japonesa【920773330756233†L354-L361】",
+        "No tener doble ciudadanía con un país desarrollado【920773330756233†L356-L359】",
+        "Estar admitido en un programa de maestría en una institución designada【920773330756233†L359-L360】",
+        "Poseer título universitario y expediente académico superior【920773330756233†L361-L363】",
+        "Tener al menos dos años de experiencia profesional y dominio del inglés【920773330756233†L362-L365】",
+        "No ser mayor de 35 años salvo excepciones autorizadas【920773330756233†L366-L368】",
+        "Gozar de buena salud【920773330756233†L368-L369】",
+        "Comprometerse a regresar y trabajar en el país de origen por al menos dos años【920773330756233†L369-L371】",
+        "No ser empleado ni familiar cercano de empleados del ADB ni de instituciones designadas【920773330756233†L372-L379】"
+      ],
+      "experiencia_laboral_min": 2,
+      "idioma_requerido": "inglés",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "si",
+      "vacantes_aprox": "aprox. 130 becas anuales【920773330756233†L258-L260】",
+      "competitividad": "alta",
+      "url_oficial": "https://www.adb.org/work-with-us/careers/japan-scholarship-program",
+      "url_requisitos": "https://www.adb.org/work-with-us/careers/japan-scholarship-program",
+      "notas": "El ADB-JSP ofrece becas completas (matrícula, estipendio, libros, seguro, viaje) para estudios de maestría en instituciones de Asia-Pacífico; los postulantes deben ser ciudadanos de países miembros prestatarios y retornar a sus países al finalizar【920773330756233†L334-L344】【920773330756233†L354-L371】. Perú no es elegible.",
+      "ultima_verificacion": "2026-05-05"
+    }
+  ]
+}

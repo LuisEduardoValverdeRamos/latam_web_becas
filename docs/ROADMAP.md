@@ -1,5 +1,11 @@
 # Roadmap — BecasMundo
 
+## Fase 0: Investigación completada
+- [x] Análisis competitivo de plataformas existentes
+- [x] Identificación de gap de mercado
+- [x] Definición de posicionamiento y público objetivo
+- Estado: COMPLETADO
+
 ## Fase 1: MVP (en curso)
 - [ ] Definir schema de datos para becas (campos: nombre, país, institución, deadline, campo, nivel, cobertura, requisitos, URL)
 - [ ] Curar manualmente 20-30 becas principales
