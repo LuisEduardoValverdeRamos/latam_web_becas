@@ -18,6 +18,16 @@ export default function NavBar() {
           >
             Catálogo
           </NavLink>
+          <NavLink
+            to="/sobre"
+            className={({ isActive }) =>
+              isActive
+                ? 'text-blue-700 border-b-2 border-blue-700 pb-0.5'
+                : 'text-gray-500 hover:text-blue-700 transition-colors'
+            }
+          >
+            Sobre el proyecto
+          </NavLink>
         </div>
       </div>
     </nav>
