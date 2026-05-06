@@ -5,8 +5,14 @@ import { COBERTURA_LABELS, COBERTURA_ICONS } from '../utils/filters'
 
 const ALL_BECAS = becasData.becas
 
-// Strip internal citation marks like 【748985†L25-L49】
+// Strip residual citation marks and normalize "NO VERIFICADO"
 const cleanText = str => str?.replace(/【[^】]+】/g, '').trim()
+const normalize = v => {
+  if (!v || v === '0') return null
+  if (typeof v === 'string' && v.startsWith('NO VERIFICADO')) return null
+  return v
+}
+const display = (v, fallback = '—') => normalize(v) ?? fallback
 
 export default function BecaDetail() {
   const { id } = useParams()
@@ -75,7 +81,7 @@ export default function BecaDetail() {
 
       {/* Quick facts grid */}
       <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 mb-5">
-        <Fact label="Deadline 2026"     value={beca.deadline_exacto_2026} />
+        <Fact label="Deadline 2026"     value={beca.deadline_exacto_2026} fallback="Fecha por confirmar" />
         <Fact label="Período"           value={beca.deadline_periodo} />
         <Fact label="Duración"          value={beca.duracion_max} />
         <Fact label="Exp. laboral mín." value={beca.experiencia_laboral_min > 0 ? `${beca.experiencia_laboral_min} años` : 'No requerida'} />
@@ -144,23 +150,28 @@ function Section({ title, children }) {
   )
 }
 
-function Fact({ label, value }) {
-  const display = !value || value === 'NO VERIFICADO' ? '—' : value
+function Fact({ label, value, fallback = '—' }) {
+  const val = normalize(value)
+  const text = val ?? fallback
+  const isPending = !val
   return (
     <div className="bg-white rounded-xl border border-gray-200 p-3.5">
       <p className="text-xs text-gray-400 uppercase tracking-wide mb-1">{label}</p>
-      <p className={`text-sm font-medium ${display === '—' ? 'text-gray-300' : 'text-gray-900'}`}>
-        {display}
+      <p className={`text-sm font-medium ${isPending ? 'text-gray-300' : 'text-gray-900'}`}>
+        {cleanText(text)}
       </p>
     </div>
   )
 }
 
 function InfoRow({ label, value }) {
+  const val = normalize(value)
   return (
     <div>
       <span className="text-gray-400">{label}: </span>
-      <span className="text-gray-700">{value ?? '—'}</span>
+      <span className={val ? 'text-gray-700' : 'text-gray-300'}>
+        {val ? cleanText(val) : 'Pendiente de verificación'}
+      </span>
     </div>
   )
 }

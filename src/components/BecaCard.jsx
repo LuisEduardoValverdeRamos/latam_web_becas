@@ -1,10 +1,21 @@
 import { Link } from 'react-router-dom'
 import { CompetividadBadge, NivelBadge, ElegibilidadBadge } from './Badge'
-import { COBERTURA_ICONS } from '../utils/filters'
+import { COBERTURA_LABELS } from '../utils/filters'
+
+function CoberturaBadge({ value }) {
+  const label = COBERTURA_LABELS[value] ?? value
+  return (
+    <span className="text-xs font-medium px-2 py-0.5 rounded-full bg-gray-100 text-gray-600 border border-gray-200">
+      {label}
+    </span>
+  )
+}
+
+const NO_VERIFICADO = ['NO VERIFICADO', 'Fecha por confirmar']
+const isUnknown = v => !v || NO_VERIFICADO.some(p => v.startsWith(p))
 
 export default function BecaCard({ beca }) {
   const coverageItems = beca.cobertura.filter(c => c !== 'NO VERIFICADO')
-  const deadlineKnown = beca.deadline_exacto_2026 && beca.deadline_exacto_2026 !== 'NO VERIFICADO'
 
   return (
     <Link
@@ -30,21 +41,19 @@ export default function BecaCard({ beca }) {
         {beca.nivel.map(n => <NivelBadge key={n} value={n} />)}
       </div>
 
-      {/* Cobertura icons */}
+      {/* Cobertura badges */}
       {coverageItems.length > 0 && (
-        <div className="flex gap-2 text-base">
-          {coverageItems.map(c => (
-            <span key={c} title={c}>{COBERTURA_ICONS[c] ?? '•'}</span>
-          ))}
+        <div className="flex flex-wrap gap-1">
+          {coverageItems.map(c => <CoberturaBadge key={c} value={c} />)}
         </div>
       )}
 
       {/* Footer */}
       <div className="flex items-center justify-between mt-auto pt-2 border-t border-gray-100">
         <CompetividadBadge value={beca.competitividad} />
-        {deadlineKnown
-          ? <span className="text-xs text-gray-500 truncate ml-2">Cierre: {beca.deadline_exacto_2026}</span>
-          : <span className="text-xs text-gray-300">Deadline por confirmar</span>
+        {isUnknown(beca.deadline_exacto_2026)
+          ? <span className="text-xs text-gray-300">Fecha por confirmar</span>
+          : <span className="text-xs text-gray-500 truncate ml-2">Cierre: {beca.deadline_exacto_2026}</span>
         }
       </div>
     </Link>
