@@ -1,13 +1,13 @@
 {
   "metadata": {
     "version": "1.1",
-    "fecha_generacion": "2026-05-05",
-    "total_becas": 28,
+    "fecha_generacion": "2026-05-06",
+    "total_becas": 57,
     "verificadas_completas": 4,
     "verificadas_parciales": 24,
     "fuente": "Investigación manual verificada contra fuentes oficiales",
     "schema_version": "1.0",
-    "ultima_normalizacion": "2026-05-05"
+    "ultima_normalizacion": "2026-05-06"
   },
   "becas": [
     {
@@ -15,9 +15,18 @@
       "nombre": "Chevening Scholarships",
       "institucion": "Foreign, Commonwealth & Development Office (FCDO)",
       "pais_destino": "Reino Unido",
-      "nivel": ["maestria"],
-      "campos_estudio": ["todos"],
-      "cobertura": ["matricula", "manutencion", "pasajes", "seguro"],
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "seguro"
+      ],
       "tipo_cobertura": "total",
       "duracion_max": "12 meses (renovable hasta el final del máster)",
       "deadline_periodo": "agosto-noviembre",
@@ -46,9 +55,19 @@
       "nombre": "Gates Cambridge Scholarship",
       "institucion": "University of Cambridge / Bill & Melinda Gates Foundation",
       "pais_destino": "Reino Unido",
-      "nivel": ["maestria", "doctorado"],
-      "campos_estudio": ["todos"],
-      "cobertura": ["matricula", "manutencion", "pasajes", "seguro"],
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "seguro"
+      ],
       "tipo_cobertura": "total",
       "duracion_max": "hasta 4 años (según el programa)",
       "deadline_periodo": "septiembre-enero",
@@ -77,9 +96,19 @@
       "nombre": "MEXT Scholarship",
       "institucion": "Ministerio de Educación, Cultura, Deportes, Ciencia y Tecnología de Japón (MEXT)",
       "pais_destino": "Japón",
-      "nivel": ["maestria", "doctorado", "investigacion"],
-      "campos_estudio": ["todos"],
-      "cobertura": ["matricula", "manutencion", "pasajes"],
+      "nivel": [
+        "maestria",
+        "doctorado",
+        "investigacion"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes"
+      ],
       "tipo_cobertura": "total",
       "duracion_max": "hasta 5 años (según el programa)",
       "deadline_periodo": "abril-mayo",
@@ -108,9 +137,20 @@
       "nombre": "Swiss Government Excellence Scholarships",
       "institucion": "Confederación Suiza (State Secretariat for Education, Research and Innovation - SERI)",
       "pais_destino": "Suiza",
-      "nivel": ["investigacion", "doctorado", "postdoc"],
-      "campos_estudio": ["todos"],
-      "cobertura": ["manutencion", "seguro", "pasajes", "investigacion"],
+      "nivel": [
+        "investigacion",
+        "doctorado",
+        "postdoc"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "manutencion",
+        "seguro",
+        "pasajes",
+        "investigacion"
+      ],
       "tipo_cobertura": "parcial",
       "duracion_max": "12 meses (investigación/doctorado), 12‑36 meses según programa",
       "deadline_periodo": "agosto-octubre",
@@ -139,9 +179,17 @@
       "nombre": "Stipendium Hungaricum",
       "institucion": "Governo húngaro / Tempus Public Foundation",
       "pais_destino": "Hungría",
-      "nivel": ["maestria", "doctorado"],
-      "campos_estudio": ["todos"],
-      "cobertura": ["matricula", "manutencion"],
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion"
+      ],
       "tipo_cobertura": "total (matrícula) + parcial (manutención)",
       "duracion_max": "24 meses (maestría), 36-48 meses (doctorado)",
       "deadline_periodo": "diciembre-enero",
@@ -170,9 +218,19 @@
       "nombre": "Commonwealth Scholarships",
       "institucion": "Commonwealth Scholarship Commission (CSC)",
       "pais_destino": "Reino Unido",
-      "nivel": ["maestria", "doctorado"],
-      "campos_estudio": ["todos"],
-      "cobertura": ["matricula", "manutencion", "pasajes", "investigacion"],
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "investigacion"
+      ],
       "tipo_cobertura": "total",
       "duracion_max": "12-36 meses (según tipo de beca)",
       "deadline_periodo": "octubre-diciembre",
@@ -201,9 +259,17 @@
       "nombre": "Clarendon Fund Scholarships",
       "institucion": "University of Oxford",
       "pais_destino": "Reino Unido",
-      "nivel": ["maestria", "doctorado"],
-      "campos_estudio": ["todos"],
-      "cobertura": ["matricula", "manutencion"],
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion"
+      ],
       "tipo_cobertura": "total (matrícula y manutención)",
       "duracion_max": "según duración del programa (1–4 años)",
       "deadline_periodo": "diciembre-enero (depende del programa)",
@@ -231,9 +297,19 @@
       "nombre": "Rhodes Scholarship",
       "institucion": "Rhodes Trust / University of Oxford",
       "pais_destino": "Reino Unido",
-      "nivel": ["maestria", "doctorado"],
-      "campos_estudio": ["todos"],
-      "cobertura": ["matricula", "manutencion", "pasajes", "seguro"],
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "seguro"
+      ],
       "tipo_cobertura": "total",
       "duracion_max": "2-3 años (según la duración de los estudios)",
       "deadline_periodo": "julio-octubre (depende de la circunscripción)",
@@ -262,9 +338,17 @@
       "nombre": "DAAD Study Scholarships – Master Studies for All Academic Disciplines",
       "institucion": "German Academic Exchange Service (DAAD)",
       "pais_destino": "Alemania",
-      "nivel": ["maestria"],
-      "campos_estudio": ["todos"],
-      "cobertura": ["manutencion", "seguro", "pasajes"],
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "manutencion",
+        "seguro",
+        "pasajes"
+      ],
       "tipo_cobertura": "total",
       "duracion_max": "10-24 meses (según el programa)",
       "deadline_periodo": "junio-septiembre (se actualiza cada año)",
@@ -294,9 +378,18 @@
       "nombre": "Erasmus Mundus Joint Master Degrees (EMJM)",
       "institucion": "Comisión Europea / European Education and Culture Executive Agency (EACEA)",
       "pais_destino": "Unión Europea (varios países)",
-      "nivel": ["maestria"],
-      "campos_estudio": ["todos"],
-      "cobertura": ["matricula", "manutencion", "pasajes", "seguro"],
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "seguro"
+      ],
       "tipo_cobertura": "total",
       "duracion_max": "12-24 meses",
       "deadline_periodo": "octubre-enero",
@@ -325,9 +418,18 @@
       "nombre": "France Excellence Eiffel Scholarship",
       "institucion": "Ministère de l'Europe et des Affaires étrangères / Campus France",
       "pais_destino": "Francia",
-      "nivel": ["maestria", "doctorado"],
-      "campos_estudio": ["áreas prioritarias como ciencias, ingeniería, derecho, economía y gestión, ciencias políticas, historia y civilización francesa"],
-      "cobertura": ["manutencion", "pasajes", "seguro"],
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "áreas prioritarias como ciencias, ingeniería, derecho, economía y gestión, ciencias políticas, historia y civilización francesa"
+      ],
+      "cobertura": [
+        "manutencion",
+        "pasajes",
+        "seguro"
+      ],
       "tipo_cobertura": "total (manutención y servicios; no cubre matrícula)",
       "duracion_max": "12-36 meses (según nivel y programa)",
       "deadline_periodo": "octubre-enero",
@@ -357,9 +459,18 @@
       "nombre": "Beca de Posgrado Fulbright",
       "institucion": "Comisión Fulbright Perú / U.S. Department of State",
       "pais_destino": "Estados Unidos",
-      "nivel": ["maestria", "doctorado"],
-      "campos_estudio": ["todos"],
-      "cobertura": ["matricula", "manutencion", "seguro"],
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "seguro"
+      ],
       "tipo_cobertura": "parcial",
       "duracion_max": "hasta 21 meses",
       "deadline_periodo": "abril",
@@ -390,9 +501,19 @@
       "nombre": "Hubert H. Humphrey Fellowship",
       "institucion": "U.S. Department of State / Comisión Fulbright Perú",
       "pais_destino": "Estados Unidos",
-      "nivel": ["investigacion"],
-      "campos_estudio": ["áreas de interés público"],
-      "cobertura": ["matricula", "manutencion", "pasajes", "seguro", "investigacion"],
+      "nivel": [
+        "investigacion"
+      ],
+      "campos_estudio": [
+        "áreas de interés público"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "seguro",
+        "investigacion"
+      ],
       "tipo_cobertura": "total",
       "duracion_max": "un año académico (aprox. 12 meses)",
       "deadline_periodo": "agosto",
@@ -423,9 +544,20 @@
       "nombre": "Beca Académica de la OEA",
       "institucion": "Organización de Estados Americanos (OEA)",
       "pais_destino": "varios países (estados miembro OEA)",
-      "nivel": ["maestria", "doctorado"],
-      "campos_estudio": ["todos"],
-      "cobertura": ["matricula", "manutencion", "pasajes", "seguro", "materiales"],
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "seguro",
+        "materiales"
+      ],
       "tipo_cobertura": "parcial",
       "duracion_max": "hasta 2 años",
       "deadline_periodo": "marzo-abril",
@@ -455,9 +587,15 @@
       "nombre": "Vanier Canada Graduate Scholarship",
       "institucion": "Gobierno de Canadá (CIHR / NSERC / SSHRC)",
       "pais_destino": "Canadá",
-      "nivel": ["doctorado"],
-      "campos_estudio": ["todos"],
-      "cobertura": ["manutencion"],
+      "nivel": [
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "manutencion"
+      ],
       "tipo_cobertura": "parcial",
       "duracion_max": "hasta 3 años (no renovable)",
       "deadline_periodo": "agosto",
@@ -487,9 +625,15 @@
       "nombre": "Banting Postdoctoral Fellowships",
       "institucion": "Gobierno de Canadá (CIHR / NSERC / SSHRC)",
       "pais_destino": "Canadá",
-      "nivel": ["postdoc"],
-      "campos_estudio": ["todos"],
-      "cobertura": ["manutencion"],
+      "nivel": [
+        "postdoc"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "manutencion"
+      ],
       "tipo_cobertura": "parcial",
       "duracion_max": "2 años",
       "deadline_periodo": "agosto-septiembre",
@@ -518,9 +662,15 @@
       "nombre": "NL Scholarship (antigua Holland Scholarship)",
       "institucion": "Ministerio de Educación, Cultura y Ciencia de los Países Bajos y universidades participantes",
       "pais_destino": "Países Bajos",
-      "nivel": ["maestria"],
-      "campos_estudio": ["todos"],
-      "cobertura": ["manutencion"],
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "manutencion"
+      ],
       "tipo_cobertura": "parcial (aporte único de €5 000 durante el primer año, no cubre toda la matrícula ni la manutención)",
       "duracion_max": "1 año (el monto solo se otorga una vez)",
       "deadline_periodo": "a partir del 1 nov 2025; cada universidad fija su cierre",
@@ -549,9 +699,21 @@
       "nombre": "Swedish Institute Scholarship for Global Professionals (SISGP)",
       "institucion": "Swedish Institute",
       "pais_destino": "Suecia",
-      "nivel": ["maestria"],
-      "campos_estudio": ["gobernanza", "salud pública", "emprendimiento e innovación", "STEM", "otros"],
-      "cobertura": ["matricula", "manutencion", "pasajes"],
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "gobernanza",
+        "salud pública",
+        "emprendimiento e innovación",
+        "STEM",
+        "otros"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes"
+      ],
       "tipo_cobertura": "total (matrícula, estipendio mensual y subsidio de viaje)",
       "duracion_max": "1-2 años (según el programa de maestría)",
       "deadline_periodo": "16 oct 2025 – 25 feb 2026 (fase de admisión y solicitud)",
@@ -580,9 +742,15 @@
       "nombre": "Edinburgh Global Research Scholarship",
       "institucion": "University of Edinburgh",
       "pais_destino": "Reino Unido",
-      "nivel": ["doctorado"],
-      "campos_estudio": ["todos"],
-      "cobertura": ["matricula"],
+      "nivel": [
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula"
+      ],
       "tipo_cobertura": "parcial (cubre la diferencia entre la matrícula del Reino Unido/UE y la tarifa para estudiantes internacionales; no cubre manutención)",
       "duracion_max": "hasta 3 años",
       "deadline_periodo": "enero-febrero (basado en convocatorias anteriores)",
@@ -610,9 +778,19 @@
       "nombre": "Global Korea Scholarship (GKS) – Programa de posgrado",
       "institucion": "Instituto Nacional para la Educación Internacional (NIIED), Gobierno de Corea",
       "pais_destino": "Corea del Sur",
-      "nivel": ["maestria", "doctorado"],
-      "campos_estudio": ["todos"],
-      "cobertura": ["matricula", "manutencion", "pasajes", "investigacion"],
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "investigacion"
+      ],
       "tipo_cobertura": "total",
       "duracion_max": "3 años para maestría (1 año de coreano + 2 años de estudios) y 4 años para doctorado (1 año de coreano + 3 años de estudios)",
       "deadline_periodo": "febrero-abril 2026 (según embajada o universidad)",
@@ -641,9 +819,18 @@
       "nombre": "Australia Awards Scholarships",
       "institucion": "Departamento de Asuntos Exteriores y Comercio del Gobierno de Australia (DFAT)",
       "pais_destino": "Australia",
-      "nivel": ["maestria"],
-      "campos_estudio": ["prioridades según país participante"],
-      "cobertura": ["matricula", "manutencion", "pasajes", "seguro"],
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "prioridades según país participante"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "seguro"
+      ],
       "tipo_cobertura": "total",
       "duracion_max": "duración mínima necesaria del programa (según la universidad)",
       "deadline_periodo": "1 feb – 30 abr 2026",
@@ -672,9 +859,19 @@
       "nombre": "Manaaki New Zealand Scholarship",
       "institucion": "New Zealand Ministry of Foreign Affairs and Trade (MFAT)",
       "pais_destino": "Nueva Zelanda",
-      "nivel": ["maestria", "doctorado"],
-      "campos_estudio": ["todos"],
-      "cobertura": ["matricula", "manutencion", "pasajes", "seguro"],
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "seguro"
+      ],
       "tipo_cobertura": "total",
       "duracion_max": "1 a 4 años (según el programa académico)",
       "deadline_periodo": "NO VERIFICADO",
@@ -704,9 +901,19 @@
       "nombre": "Chinese Government Scholarship (CSC)",
       "institucion": "China Scholarship Council (CSC) / Ministerio de Educación de China",
       "pais_destino": "China",
-      "nivel": ["maestria", "doctorado"],
-      "campos_estudio": ["todos"],
-      "cobertura": ["matricula", "manutencion", "pasajes", "seguro"],
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "seguro"
+      ],
       "tipo_cobertura": "total",
       "duracion_max": "1–3 años (maestría), 4–5 años (doctorado)",
       "deadline_periodo": "noviembre-enero",
@@ -736,9 +943,21 @@
       "nombre": "KAUST Fellowship",
       "institucion": "King Abdullah University of Science and Technology (KAUST)",
       "pais_destino": "Arabia Saudita",
-      "nivel": ["maestria", "doctorado"],
-      "campos_estudio": ["ciencias", "ingeniería", "tecnología"],
-      "cobertura": ["matricula", "manutencion", "pasajes", "seguro"],
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "ciencias",
+        "ingeniería",
+        "tecnología"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "seguro"
+      ],
       "tipo_cobertura": "total",
       "duracion_max": "2 años (maestría), 3–4 años (doctorado)",
       "deadline_periodo": "agosto-mayo",
@@ -766,16 +985,25 @@
       "nombre": "Aga Khan Foundation – International Scholarship Programme (ISP)",
       "institucion": "Aga Khan Foundation",
       "pais_destino": "varios países",
-      "nivel": ["maestria", "doctorado"],
-      "campos_estudio": ["todos"],
-      "cobertura": ["NO VERIFICADO"],
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "NO VERIFICADO"
+      ],
       "tipo_cobertura": "NO VERIFICADO",
       "duracion_max": "NO VERIFICADO",
       "deadline_periodo": "NO VERIFICADO",
       "deadline_exacto_2026": "NO VERIFICADO",
       "elegibilidad_nacionalidad": "verificar",
       "elegibilidad_edad": "NO VERIFICADO",
-      "requisitos_clave": ["NO VERIFICADO"],
+      "requisitos_clave": [
+        "NO VERIFICADO"
+      ],
       "experiencia_laboral_min": 0,
       "idioma_requerido": "NO VERIFICADO",
       "requiere_admision_previa": "depende",
@@ -792,9 +1020,22 @@
       "nombre": "Joint Japan/World Bank Graduate Scholarship Program (JJ/WBGSP)",
       "institucion": "Banco Mundial / Gobierno de Japón",
       "pais_destino": "varios países (instituciones participantes globales)",
-      "nivel": ["maestria"],
-      "campos_estudio": ["desarrollo", "política pública", "economía", "administración pública", "ingeniería"],
-      "cobertura": ["matricula", "manutencion", "pasajes", "seguro"],
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "desarrollo",
+        "política pública",
+        "economía",
+        "administración pública",
+        "ingeniería"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "seguro"
+      ],
       "tipo_cobertura": "total",
       "duracion_max": "1–2 años (duración del programa de maestría)",
       "deadline_periodo": "enero-mayo (dos ventanas)",
@@ -825,16 +1066,24 @@
       "nombre": "OFID Scholarship Award",
       "institucion": "OPEC Fund for International Development",
       "pais_destino": "varios países (cualquier país en desarrollo)",
-      "nivel": ["maestria"],
-      "campos_estudio": ["todos"],
-      "cobertura": ["NO VERIFICADO"],
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "NO VERIFICADO"
+      ],
       "tipo_cobertura": "NO VERIFICADO",
       "duracion_max": "NO VERIFICADO",
       "deadline_periodo": "NO VERIFICADO",
       "deadline_exacto_2026": "NO VERIFICADO",
       "elegibilidad_nacionalidad": "NO VERIFICADO",
       "elegibilidad_edad": "NO VERIFICADO",
-      "requisitos_clave": ["NO VERIFICADO"],
+      "requisitos_clave": [
+        "NO VERIFICADO"
+      ],
       "experiencia_laboral_min": 0,
       "idioma_requerido": "NO VERIFICADO",
       "requiere_admision_previa": "NO VERIFICADO",
@@ -851,9 +1100,23 @@
       "nombre": "ADB-Japan Scholarship Program (ADB-JSP)",
       "institucion": "Asian Development Bank / Gobierno de Japón",
       "pais_destino": "Asia y Pacífico (instituciones designadas)",
-      "nivel": ["maestria"],
-      "campos_estudio": ["economía", "gestión", "ciencia y tecnología", "política pública", "estudios de desarrollo"],
-      "cobertura": ["matricula", "manutencion", "pasajes", "seguro", "materiales"],
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "economía",
+        "gestión",
+        "ciencia y tecnología",
+        "política pública",
+        "estudios de desarrollo"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "seguro",
+        "materiales"
+      ],
       "tipo_cobertura": "total",
       "duracion_max": "1-2 años (duración de la maestría)",
       "deadline_periodo": "dependiente de la institución asociada",
@@ -881,6 +1144,1191 @@
       "url_requisitos": "https://www.adb.org/work-with-us/careers/japan-scholarship-program",
       "notas": "El ADB-JSP ofrece becas completas (matrícula, estipendio, libros, seguro, viaje) para estudios de maestría en instituciones de Asia-Pacífico; los postulantes deben ser ciudadanos de países miembros prestatarios y retornar a sus países al finalizar. Perú no es país miembro prestatario del ADB — elegibilidad_nacionalidad = 'no'.",
       "ultima_verificacion": "2026-05-05"
+    },
+    {
+      "id": "alexander_von_humboldt",
+      "nombre": "Humboldt Research Fellowship",
+      "institucion": "Fundación Alexander von Humboldt",
+      "pais_destino": "Alemania",
+      "nivel": [
+        "investigacion"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "manutencion",
+        "pasajes",
+        "seguro",
+        "materiales"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "6-24 meses",
+      "deadline_periodo": "todo el año",
+      "deadline_exacto_2026": "No aplica",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Tener un doctorado completado en los últimos 4 años (postdoctorales)",
+        "Contar con una propuesta de investigación innovadora y acuerdo con un anfitrión en Alemania",
+        "Presentar cartas de recomendación y publicaciones de calidad",
+        "Demostrar dominio de inglés o alemán"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "inglés o alemán",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "no",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "muy_alta",
+      "url_oficial": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship",
+      "url_requisitos": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship",
+      "notas": "La beca ofrece una asignación mensual de 2 670 €, más subsidios de viaje, seguro y apoyo familiar. Las solicitudes se aceptan todo el año y se revisan tres veces al año.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "banco_santander_scholarships",
+      "nombre": "Becas Santander (Santander Open Academy)",
+      "institucion": "Banco Santander",
+      "pais_destino": "varios",
+      "nivel": [
+        "licenciatura",
+        "maestria",
+        "investigacion",
+        "postdoc"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes"
+      ],
+      "tipo_cobertura": "parcial",
+      "duracion_max": "varía según el programa (de semanas a un año)",
+      "deadline_periodo": "convocatorias todo el año",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "verificar",
+      "elegibilidad_edad": "sin limite general (depende de la convocatoria)",
+      "requisitos_clave": [
+        "Registrarse en la plataforma Santander Open Academy",
+        "Ser estudiante o egresado de una institución participante",
+        "Cumplir con los requisitos de cada convocatoria (promedio, idiomas)",
+        "Presentar carta de motivación",
+        "Algunas becas exigen ser residente en un país específico"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "depende de la convocatoria",
+      "requiere_admision_previa": "depende",
+      "requiere_retorno": "no",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "media",
+      "url_oficial": "https://www.becas-santander.com/",
+      "url_requisitos": "https://app.santanderopenacademy.com/",
+      "notas": "Las becas Santander incluyen ayudas para estudiar idiomas, programas cortos, másteres y movilidad; revisar cada convocatoria para conocer cobertura y requisitos específicos.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "becas_fundacion_la_caixa",
+      "nombre": "Becas Fundación “la Caixa” (postgrado y doctorado)",
+      "institucion": "Fundación “la Caixa”",
+      "pais_destino": "España, Europa y EE. UU.",
+      "nivel": [
+        "maestria",
+        "doctorado",
+        "postdoc"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "NO VERIFICADO"
+      ],
+      "tipo_cobertura": "NO VERIFICADO",
+      "duracion_max": "NO VERIFICADO",
+      "deadline_periodo": "enero-febrero de 2026",
+      "deadline_exacto_2026": "19 de enero de 2026 (posgrado), 28 de enero de 2026 (doctorado INPhINIT Incoming), 18 de febrero de 2026 (doctorado INPhINIT Retaining)",
+      "elegibilidad_nacionalidad": "no",
+      "elegibilidad_edad": "NO VERIFICADO",
+      "requisitos_clave": [
+        "Ser ciudadano español o portugués (en la mayoría de programas)",
+        "Contar con un título universitario y expediente académico sobresaliente",
+        "Cumplir los requisitos de idioma establecidos por la universidad o institución de destino",
+        "Presentar la solicitud antes de la fecha límite específica de la modalidad"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "NO VERIFICADO",
+      "requiere_admision_previa": "depende",
+      "requiere_retorno": "no",
+      "vacantes_aprox": "160 (aproximadamente; 100 de posgrado y 60 de doctorado)",
+      "competitividad": "muy_alta",
+      "url_oficial": "https://fundacionlacaixa.org/becas",
+      "url_requisitos": "https://fundacionlacaixa.org/becas",
+      "notas": "La convocatoria 2026 incluye becas de posgrado para estudios internacionales (reservadas a personas con nacionalidad española o portuguesa) y programas de doctorado INPhINIT que pueden aceptar candidatos de cualquier nacionalidad. La información detallada sobre cobertura económica (matrícula, manutención, viajes y seguro) no pudo verificarse.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "becas_grupo_coimbra",
+      "nombre": "Becas Grupo Coimbra – Programa de movilidad para América Latina",
+      "institucion": "Universidades del Grupo Coimbra",
+      "pais_destino": "Europa (universidades del Grupo Coimbra)",
+      "nivel": [
+        "investigacion"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "manutencion",
+        "pasajes",
+        "alojamiento"
+      ],
+      "tipo_cobertura": "parcial",
+      "duracion_max": "3 meses",
+      "deadline_periodo": "abril–mayo",
+      "deadline_exacto_2026": "2026-05-10",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Ser profesor o investigador joven en una universidad latinoamericana",
+        "Presentar un proyecto de investigación y carta de aceptación de la universidad europea anfitriona",
+        "No haber sido beneficiario previo del mismo programa"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "depende de la institución anfitriona",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "si",
+      "vacantes_aprox": 74,
+      "competitividad": "alta",
+      "url_oficial": "https://www.coimbra-group.eu/",
+      "url_requisitos": "https://www.coimbra-group.eu/2026-scholarship-programme-for-latin-america/",
+      "notas": "Cada universidad del Grupo Coimbra define las condiciones de su beca. La ayuda económica suele rondar entre 1 000 y 1 500 euros al mes y puede incluir alojamiento o viaje. Es un programa de movilidad corta, no de titulación.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "becas_roberto_rocca",
+      "nombre": "Becas Roberto Rocca",
+      "institucion": "Empresas del Grupo Techint (Tenaris, Ternium, Tecpetrol)",
+      "pais_destino": "Latinoamérica y otros",
+      "nivel": [
+        "maestria",
+        "doctorado",
+        "investigacion"
+      ],
+      "campos_estudio": [
+        "ingenieria",
+        "ciencias_aplicadas"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion"
+      ],
+      "tipo_cobertura": "parcial",
+      "duracion_max": "NO VERIFICADO",
+      "deadline_periodo": "primer semestre (variable por país)",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Excelencia académica en ingeniería o ciencias aplicadas",
+        "Necesidad económica demostrable",
+        "Compromiso con la comunidad y liderazgo",
+        "Estar matriculado en una universidad nacional (grado) o contar con admisión previa en una universidad extranjera (fellowship)"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "depende del país y programa",
+      "requiere_admision_previa": "depende",
+      "requiere_retorno": "recomendado",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "alta",
+      "url_oficial": "https://www.robertorocca.org/",
+      "url_requisitos": "https://www.robertorocca.org/",
+      "notas": "Las becas son gestionadas por empresas del Grupo Techint y se conceden a estudiantes sobresalientes de ingeniería. Cada país define montos y duración, por lo que los postulantes deben revisar las convocatorias locales.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "cambridge_trust",
+      "nombre": "Cambridge Trust Scholarships",
+      "institucion": "Cambridge Commonwealth, European & International Trust",
+      "pais_destino": "Reino Unido",
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "duración completa del programa (1-4 años)",
+      "deadline_periodo": "diciembre 2025 - enero 2026 (según curso)",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Solicitar y obtener admisión en un programa de máster o doctorado de la Universidad de Cambridge",
+        "Poseer un expediente académico sobresaliente y potencial de liderazgo",
+        "Completar los formularios de apoyo financiero del Cambridge Trust cuando corresponda",
+        "Cumplir los requisitos de idioma inglés de la universidad"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "Inglés (según requisitos de admisión de Cambridge)",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "no",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "muy_alta",
+      "url_oficial": "https://www.cambridgetrust.org/",
+      "url_requisitos": "https://www.cambridgetrust.org/postgraduate-applicants",
+      "notas": "Las becas del Cambridge Trust combinan diferentes fondos para cubrir completamente las tasas de matrícula y el coste de vida en Cambridge. Algunas becas se conceden automáticamente a los mejores candidatos admitidos, mientras que otras requieren formularios adicionales. No hay límite de edad y los candidatos peruanos son elegibles.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "canon_collins_scholarships",
+      "nombre": "Canon Collins Trust Scholarships (Sol Plaatje)",
+      "institucion": "Canon Collins Trust",
+      "pais_destino": "Sudáfrica",
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "justicia",
+        "educacion",
+        "humanidades"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion"
+      ],
+      "tipo_cobertura": "parcial",
+      "duracion_max": "2 años (hasta 3 años para doctorado)",
+      "deadline_periodo": "agosto-septiembre 2025",
+      "deadline_exacto_2026": "2 de septiembre de 2025",
+      "elegibilidad_nacionalidad": "no",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Ser ciudadano o refugiado de Namibia, Zimbabwe, Sudáfrica, Angola, Botswana, Lesotho, Malawi, Mozambique, Eswatini o Zambia",
+        "Poseer un título de grado con calificación mínima de segunda clase superior",
+        "Estar matriculado o haber solicitado admisión en una universidad sudafricana",
+        "Presentar referencias y, para doctorado, propuesta de investigación y aval del supervisor",
+        "Completar el formulario en línea y enviar documentación antes de la fecha límite"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "inglés",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "no",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "alta",
+      "url_oficial": "https://canoncollins.org.uk/",
+      "url_requisitos": "https://canoncollins.org.uk/apply",
+      "notas": "El programa apoya estudios de posgrado en disciplinas de justicia, educación y humanidades para nacionales del sur de África. No está disponible para postulantes de Perú ni de otros países latinoamericanos.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "denys_holland",
+      "nombre": "Denys Holland Scholarship",
+      "institucion": "University College London (UCL)",
+      "pais_destino": "Reino Unido",
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "NO VERIFICADO"
+      ],
+      "tipo_cobertura": "NO VERIFICADO",
+      "duracion_max": "hasta 3 años (licenciatura)",
+      "deadline_periodo": "NO VERIFICADO",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "NO VERIFICADO",
+      "requisitos_clave": [
+        "Tener una oferta de admisión a un programa de licenciatura en UCL",
+        "Demostrar necesidad económica",
+        "Mostrar interés en participar activamente en la vida universitaria y las actividades del Student Union",
+        "Completar el formulario de solicitud de beca y adjuntar referencias"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "Inglés (según requisitos de UCL)",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "no",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "alta",
+      "url_oficial": "https://www.ucl.ac.uk/scholarships/denys-holland-scholarship",
+      "url_requisitos": "https://www.ucl.ac.uk/scholarships/denys-holland-scholarship",
+      "notas": "Esta beca está destinada a estudiantes de pregrado que no podrían financiar sus estudios en UCL sin ayuda. No se pudieron verificar detalles de cobertura ni plazos para 2026. La información se basa en fuentes externas no oficiales.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "elap_canada",
+      "nombre": "Emerging Leaders in the Americas Program (ELAP)",
+      "institucion": "Global Affairs Canada / instituciones canadienses",
+      "pais_destino": "Canadá",
+      "nivel": [
+        "investigacion",
+        "maestria",
+        "doctorado",
+        "licenciatura"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "manutencion",
+        "materiales"
+      ],
+      "tipo_cobertura": "parcial",
+      "duracion_max": "6 meses",
+      "deadline_periodo": "marzo",
+      "deadline_exacto_2026": "2026-03-31",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Ser ciudadano de un país de América Latina o el Caribe y estar inscrito en una institución de educación superior de la región",
+        "Haber completado al menos un semestre del programa académico en la institución de origen",
+        "No tener la ciudadanía o residencia permanente canadiense",
+        "Poseer carta de aceptación de la institución canadiense anfitriona",
+        "Demostrar rendimiento académico satisfactorio"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "inglés o francés, según el programa",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "si",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "alta",
+      "url_oficial": "https://www.educanada.ca/scholarships-bourses/can/institutions/elap-pfla.aspx",
+      "url_requisitos": "https://www.educanada.ca/scholarships-bourses/can/institutions/elap-pfla.aspx#value",
+      "notas": "Las instituciones canadienses eximen las tasas de matrícula. Los estudiantes deben gestionar su visa de estudios y seguro médico. Es un programa de intercambio, por lo que los participantes deben regresar a su universidad de origen para terminar sus estudios.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "emile_boutmy",
+      "nombre": "Émile Boutmy Scholarship",
+      "institucion": "Sciences Po",
+      "pais_destino": "Francia",
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula"
+      ],
+      "tipo_cobertura": "parcial",
+      "duracion_max": "hasta 2 años (maestría)",
+      "deadline_periodo": "enero 2026 (pregrado) y octubre-noviembre (maestría)",
+      "deadline_exacto_2026": "20 de enero de 2026 (pregrado)",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Ser postulante por primera vez procedente de un país no perteneciente a la Unión Europea",
+        "Estar admitido en un programa de pregrado o maestría de Sciences Po",
+        "Demostrar excelencia académica y necesidad financiera",
+        "Indicar la solicitud de la beca en la sección de información financiera al postular"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "Francés o inglés según el programa",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "no",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "alta",
+      "url_oficial": "https://www.sciencespo.fr/en/admissions/financial-aid/emile-boutmy-scholarship/",
+      "url_requisitos": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/emile-boutmy-scholarship/",
+      "notas": "La beca Émile Boutmy ofrece exenciones parciales o totales de matrícula (hasta €9 500/año en licenciatura y €18 500/año en maestría) para estudiantes no comunitarios. No cubre la manutención ni los gastos de viaje; los becarios deben financiar su estancia. Las fechas límite varían según el nivel y se deben consultar en la web.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "eth_excellence_scholarship",
+      "nombre": "ETH Zurich Excellence Scholarship & Opportunity Programme (ESOP)",
+      "institucion": "ETH Zürich / ETH Foundation",
+      "pais_destino": "Suiza",
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "3-4 semestres (duración regular del máster)",
+      "deadline_periodo": "1-30 de noviembre de 2026",
+      "deadline_exacto_2026": "30 de noviembre de 2026",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Estar entre el 10 % superior de la carrera de licenciatura (nota A)",
+        "Solicitar admisión a un programa de máster de ETH Zürich a través de la plataforma eApply",
+        "Presentar un preproyecto de tesis de máster y proporcionar referencias académicas",
+        "No haber cursado previamente un máster en ETH Zürich"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "Depende del programa (inglés o alemán)",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "",
+      "vacantes_aprox": "60",
+      "competitividad": "muy_alta",
+      "url_oficial": "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html",
+      "url_requisitos": "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html",
+      "notas": "El ESOP incluye un estipendio de CHF 12 000 por semestre más una exención total de tasas. Los candidatos deben demostrar excelencia académica y preparar un preproyecto de tesis. La postulación se realiza en noviembre del año anterior al inicio del programa.",
+      "ultima_verificacion": "2026-05-06",
+      "\\n      \"requiere_retorno\"": "no"
+    },
+    {
+      "id": "fundacion_beca",
+      "nombre": "Fundación Beca",
+      "institucion": "Fundación Beca A.C.",
+      "pais_destino": "México y países asociados en Europa, Norteamérica y Latinoamérica",
+      "nivel": [
+        "licenciatura",
+        "maestria",
+        "doctorado",
+        "investigacion"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula"
+      ],
+      "tipo_cobertura": "parcial",
+      "duracion_max": "depende del programa",
+      "deadline_periodo": "convocatoria abierta todo el año",
+      "deadline_exacto_2026": "no aplica",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin límite para licenciatura; >21 para maestría/doctorado; >18 para cursos",
+      "requisitos_clave": [
+        "Ser ciudadano latinoamericano o mexicano",
+        "Tener el grado académico previo con promedio mínimo de 8/10",
+        "Completar la solicitud en línea y subir documentos académicos",
+        "Realizar entrevista con la fundación",
+        "Comprometerse a realizar hasta 120 horas de servicio social"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "depende del programa (muchos son en español)",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "recomendado",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "accesible",
+      "url_oficial": "https://www.fundacionbeca.net/",
+      "url_requisitos": "https://www.fundacionbeca.net/nuestras-becas",
+      "notas": "La fundación otorga becas parciales que reducen el costo de la colegiatura; no cubren manutención ni pasajes. Es necesario gestionar la admisión con la universidad y luego solicitar la beca.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "fundacion_carolina",
+      "nombre": "Becas de la Fundación Carolina",
+      "institucion": "Fundación Carolina (España)",
+      "pais_destino": "España",
+      "nivel": [
+        "maestria",
+        "doctorado",
+        "investigacion"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "seguro"
+      ],
+      "tipo_cobertura": "parcial",
+      "duracion_max": "NO VERIFICADO",
+      "deadline_periodo": "enero-marzo de 2026 (según programa)",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Ser ciudadano de un país iberoamericano (latinoamericano o Portugal)",
+        "Contar con titulación de pregrado y cumplir los requisitos académicos del programa elegido",
+        "Solicitar la beca durante el período de convocatoria y completar la inscripción en línea",
+        "Revisar la dotación económica específica de cada convocatoria"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "NO VERIFICADO",
+      "requiere_admision_previa": "depende",
+      "requiere_retorno": "no",
+      "vacantes_aprox": "736 becas totales (según convocatoria 2026-2027)",
+      "competitividad": "alta",
+      "url_oficial": "https://www.fundacioncarolina.es/becas/",
+      "url_requisitos": "https://www.fundacioncarolina.es/preguntas-frecuentes/",
+      "notas": "La Fundación Carolina ofrece diversas modalidades de beca (posgrado, doctorado, estancias cortas, movilidad). La dotación económica varía según el programa e incluye un seguro médico no farmacéutico; en algunos casos se proporciona alojamiento y manutención. Es recomendable revisar las bases de cada convocatoria para conocer los detalles y plazos específicos.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "harvard_kennedy_school_scholarships",
+      "nombre": "Harvard Kennedy School Scholarships",
+      "institucion": "Universidad de Harvard – Harvard Kennedy School",
+      "pais_destino": "Estados Unidos",
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "políticas públicas",
+        "administración pública",
+        "desarrollo internacional"
+      ],
+      "cobertura": [
+        "NO VERIFICADO"
+      ],
+      "tipo_cobertura": "NO VERIFICADO",
+      "duracion_max": "1-2 años",
+      "deadline_periodo": "diciembre a enero",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Ser admitido en un programa de maestría de Harvard Kennedy School",
+        "Completar la solicitud de ayuda financiera de HKS",
+        "Demostrar mérito académico y compromiso con el servicio público",
+        "Cumplir los requisitos específicos de becas por país o área de estudio",
+        "Presentar pruebas de dominio de inglés (TOEFL u otros)"
+      ],
+      "experiencia_laboral_min": 2,
+      "idioma_requerido": "inglés (TOEFL u otros exámenes aceptados)",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "depende",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "muy_alta",
+      "url_oficial": "https://www.hks.harvard.edu/admissions-aid/funding-your-education/funding-your-masters-education/scholarships-fellowships",
+      "url_requisitos": "https://www.hks.harvard.edu/admissions-aid/funding-your-education/funding-your-masters-education/scholarships-fellowships",
+      "notas": "Existen numerosas becas basadas en mérito y necesidad. Los aspirantes deben presentar una solicitud de admisión competitiva y explorar becas regionales o externas para complementar la ayuda de HKS. Para postulantes latinoamericanos, es clave destacar su compromiso con el servicio público y liderazgo.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "idrc_research_awards",
+      "nombre": "IDRC Research Awards",
+      "institucion": "Centro Internacional de Investigaciones para el Desarrollo (IDRC)",
+      "pais_destino": "Canadá y países en desarrollo",
+      "nivel": [
+        "investigacion"
+      ],
+      "campos_estudio": [
+        "desarrollo_internacional"
+      ],
+      "cobertura": [
+        "manutencion",
+        "pasajes",
+        "investigacion"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "12 meses",
+      "deadline_periodo": "abril-junio",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Ser ciudadano de Canadá o de un país en desarrollo y contar con permiso de trabajo válido",
+        "Haber completado o estar cursando un posgrado en un área relacionada con el desarrollo",
+        "Proponer un proyecto de investigación alineado con las prioridades del IDRC",
+        "Dominar el inglés o francés",
+        "Disponibilidad para trabajar a tiempo completo en la sede del IDRC durante un año"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "inglés o francés",
+      "requiere_admision_previa": "no",
+      "requiere_retorno": "no",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "alta",
+      "url_oficial": "https://idrc.ca/en/funding",
+      "url_requisitos": "https://idrc.ca/en/funding/research-awards",
+      "notas": "Los premios combinan un puesto remunerado en el IDRC con la realización de un proyecto de investigación. La remuneración anual ronda los CA$50 000–60 000 e incluye beneficios.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "jica_nikkei",
+      "nombre": "Becas del Gobierno de Japón – Programa para comunidades Nikkei",
+      "institucion": "Agencia de Cooperación Internacional del Japón (JICA)",
+      "pais_destino": "Japón",
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "ciencias",
+        "ingenieria",
+        "desarrollo",
+        "otros campos que beneficien a las comunidades Nikkei"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "seguro",
+        "materiales",
+        "alojamiento"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "maestría: 2 años; doctorado: hasta 3 años (+ investigación/lengua)",
+      "deadline_periodo": "julio–septiembre",
+      "deadline_exacto_2026": "2025-09-26",
+      "elegibilidad_nacionalidad": "verificar",
+      "elegibilidad_edad": "menor de 40 años",
+      "requisitos_clave": [
+        "Ser emigrante o descendiente de japoneses (hasta tercera generación) residente en América Latina o el Caribe",
+        "Tener menos de 40 años al 1 de abril de 2026",
+        "Poseer título universitario (licenciatura) y haber sido admitido (o tener carta de admisión) en un posgrado en Japón",
+        "Demostrar nivel suficiente de japonés para la vida diaria y los estudios",
+        "Gozar de buena salud física y mental"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "japonés (nivel suficiente)",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "no",
+      "vacantes_aprox": 10,
+      "competitividad": "muy_alta",
+      "url_oficial": "https://www.jica.go.jp/english/overseas/america/",
+      "url_requisitos": "https://www.jica.go.jp/english/overseas/america/__icsFiles/afieldfile/2025/06/19/FY2026ApplicationGuide_1.pdf",
+      "notas": "El programa está diseñado para fortalecer el liderazgo de las comunidades Nikkei. Proporciona estipendios diarios (~4 953–5 052 JPY), boletos aéreos, ayudas de instalación y cobertura total de matrícula. Solo los descendientes de japoneses pueden postular.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "knight_hennessy_scholars",
+      "nombre": "Knight‑Hennessy Scholars",
+      "institucion": "Universidad de Stanford",
+      "pais_destino": "Estados Unidos",
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "materiales"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "Hasta 3 años (varía según el programa)",
+      "deadline_periodo": "junio a octubre",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite de edad",
+      "requisitos_clave": [
+        "Haber obtenido una licenciatura o equivalente en 2020 o después (2018 para exmilitares)",
+        "Solicitar y ser admitido simultáneamente en un programa de posgrado a tiempo completo en Stanford",
+        "Demostrar liderazgo, servicio y mentalidad cívica",
+        "Dominar el inglés y cumplir con los requisitos académicos del programa de Stanford"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "inglés (TOEFL u otros exámenes exigidos por Stanford)",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "no",
+      "vacantes_aprox": "80-100",
+      "competitividad": "muy_alta",
+      "url_oficial": "https://knight-hennessy.stanford.edu/",
+      "url_requisitos": "https://knight-hennessy.stanford.edu/admission/before-you-apply/eligibility",
+      "notas": "Preparar una solicitud sólida que demuestre liderazgo y servicio; cumplir con los requisitos de admisión de Stanford y enviar la solicitud completa antes de octubre. Planificar con antelación la presentación de exámenes de idioma y pruebas estandarizadas.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "koica_scholarship_program",
+      "nombre": "KOICA Scholarship Program",
+      "institucion": "Agencia de Cooperación Internacional de Corea (KOICA)",
+      "pais_destino": "Corea del Sur",
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "administración pública",
+        "políticas de desarrollo",
+        "ingenierías y áreas prioritarias"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "seguro",
+        "materiales"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "2 años para máster; 3 años para doctorado (más curso de coreano)",
+      "deadline_periodo": "diciembre-enero",
+      "deadline_exacto_2026": "26-01-2026",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "preferentemente <40",
+      "requisitos_clave": [
+        "Ser ciudadano de un país socio de KOICA y trabajar en el sector público",
+        "Ser nominado oficialmente por el gobierno",
+        "Poseer título de licenciatura (para máster) o maestría (para doctorado)",
+        "Demostrar experiencia profesional (≥2 años para máster, ≥3 años para doctorado)",
+        "Tener buen dominio del inglés"
+      ],
+      "experiencia_laboral_min": 2,
+      "idioma_requerido": "inglés",
+      "requiere_admision_previa": "no",
+      "requiere_retorno": "si",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "alta",
+      "url_oficial": "https://www.koica.go.kr/",
+      "url_requisitos": "https://amu.edu.kz/en/infocenter/news/16112/",
+      "notas": "La postulación requiere una carta de nominación gubernamental; preparar documentos oficiales y certificaciones de idioma.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "marie_sklodowska_curie_actions",
+      "nombre": "Marie Skłodowska‑Curie Actions – Postdoctoral Fellowships",
+      "institucion": "Comisión Europea (Horizon Europe)",
+      "pais_destino": "Unión Europea / país de destino",
+      "nivel": [
+        "investigacion"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "manutencion",
+        "materiales",
+        "investigacion",
+        "pasajes"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "12-36 meses",
+      "deadline_periodo": "abril-septiembre 2026",
+      "deadline_exacto_2026": "9 de septiembre de 2026",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Poseer un doctorado o al menos cuatro años de experiencia investigadora",
+        "No haber residido o trabajado más de 12 meses en los últimos 36 meses en el país anfitrión",
+        "Presentar un proyecto de investigación con una institución anfitriona europea",
+        "Enviar la propuesta a través del portal de la UE",
+        "Cumplir con los requisitos éticos y de movilidad de la MSCA"
+      ],
+      "experiencia_laboral_min": 4,
+      "idioma_requerido": "depende del proyecto (inglés o idioma del país anfitrión)",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "no",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "muy_alta",
+      "url_oficial": "https://marie-sklodowska-curie-actions.ec.europa.eu/",
+      "url_requisitos": "https://marie-sklodowska-curie-actions.ec.europa.eu/calls/postdoctoral-fellowships-2026",
+      "notas": "Fomenta la movilidad internacional y la excelencia postdoctoral. Los montos de las asignaciones varían según el país y se actualizan en cada convocatoria.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "mastercard_foundation_scholars",
+      "nombre": "Mastercard Foundation Scholars Program",
+      "institucion": "Mastercard Foundation y universidades asociadas",
+      "pais_destino": "Estados Unidos/Canadá/África (según universidad)",
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "NO VERIFICADO"
+      ],
+      "tipo_cobertura": "NO VERIFICADO",
+      "duracion_max": "NO VERIFICADO",
+      "deadline_periodo": "NO VERIFICADO",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "no",
+      "elegibilidad_edad": "NO VERIFICADO",
+      "requisitos_clave": [
+        "Ser ciudadano de un país africano y provenir de un contexto de vulnerabilidad económica",
+        "Demostrar excelencia académica y potencial de liderazgo",
+        "Ser admitido en el programa de estudios de la universidad participante",
+        "Comprometerse a regresar y contribuir al país de origen"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "NO VERIFICADO",
+      "requiere_admision_previa": "depende",
+      "requiere_retorno": "si",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "muy_alta",
+      "url_oficial": "https://mastercardfdn.org/all/scholars/",
+      "url_requisitos": "https://mcfscholarsprogram.berkeley.edu/am-i-eligible-scholarship",
+      "notas": "Programa destinado exclusivamente a estudiantes africanos; los postulantes latinoamericanos no son elegibles. Verifica los requisitos específicos en cada universidad asociada y prepara pruebas de liderazgo y servicio comunitario.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "mccall_macbain",
+      "nombre": "McCall MacBain Scholarships",
+      "institucion": "Fundación McCall MacBain / Universidad McGill",
+      "pais_destino": "Canadá",
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "materiales"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "hasta 2 años (según el programa)",
+      "deadline_periodo": "junio-agosto 2026 (internacional) / junio-septiembre 2026 (Canadá y EE. UU.)",
+      "deadline_exacto_2026": "19 de agosto de 2026 (internacional) y 23 de septiembre de 2026 (Canadá/EE. UU.)",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Tener un título universitario o estar en el último año de carrera al momento de postular",
+        "Solicitar admisión a un programa de maestría o profesional elegible en la Universidad McGill",
+        "Demostrar liderazgo, servicio comunitario y logros académicos",
+        "Presentar cartas de referencia, ensayos y cumplir los requisitos de idioma de McGill"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "Inglés o francés (según el programa de McGill)",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "no",
+      "vacantes_aprox": "30",
+      "competitividad": "muy_alta",
+      "url_oficial": "https://www.mccallmacbainscholars.org/",
+      "url_requisitos": "https://www.mccallmacbainscholars.org/apply",
+      "notas": "Los solicitantes internacionales deben completar su solicitud antes del 19 de agosto de 2026. Además de la beca completa, los becarios reciben un estipendio mensual de CAD 2 300 y una subvención de traslado a Montreal. Es esencial alinearse con los valores de liderazgo y servicio que busca el programa.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "obama_foundation_scholars",
+      "nombre": "Obama Foundation Scholars Program (Columbia University)",
+      "institucion": "Obama Foundation y Universidad de Columbia",
+      "pais_destino": "Estados Unidos",
+      "nivel": [
+        "investigacion"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "seguro"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "1 año académico",
+      "deadline_periodo": "agosto a diciembre",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Historial demostrado de servicio y liderazgo en la comunidad",
+        "Compromiso de regresar al país o región de origen para implementar un plan de acción",
+        "Fluidez en inglés (TOEFL iBT ≥100, IELTS ≥7.0, PTE ≥68, Duolingo ≥120)",
+        "Disponibilidad para residir en Nueva York y participar a tiempo completo durante un año académico",
+        "No estar haciendo campaña para un cargo público durante el periodo del programa"
+      ],
+      "experiencia_laboral_min": 3,
+      "idioma_requerido": "inglés (TOEFL 100, IELTS 7.0, PTE 68, Duolingo 120)",
+      "requiere_admision_previa": "no",
+      "requiere_retorno": "si",
+      "vacantes_aprox": "12",
+      "competitividad": "muy_alta",
+      "url_oficial": "https://www.obama.org/programs/scholars/columbia-university/",
+      "url_requisitos": "https://www.obama.org/programs/scholars/columbia-university/",
+      "notas": "El programa no otorga un título académico sino formación en liderazgo. Se recomienda a los aspirantes latinoamericanos enfatizar su impacto social y presentar un plan claro de cómo aplicarán lo aprendido al regresar a su país.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "orange_knowledge_programme",
+      "nombre": "Orange Knowledge Programme (OKP)",
+      "institucion": "Ministerio de Asuntos Exteriores de los Países Bajos (Nuffic)",
+      "pais_destino": "Países Bajos",
+      "nivel": [
+        "maestria",
+        "investigacion"
+      ],
+      "campos_estudio": [
+        "salud y derechos sexuales",
+        "seguridad y estado de derecho",
+        "seguridad alimentaria",
+        "agua"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "seguro",
+        "materiales"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "hasta 24 meses para máster, 2 semanas a 12 meses para cursos",
+      "deadline_periodo": "NO VERIFICADO",
+      "deadline_exacto_2026": "Programa finalizado, sin convocatorias en 2026",
+      "elegibilidad_nacionalidad": "verificar",
+      "elegibilidad_edad": "verificar",
+      "requisitos_clave": [
+        "Ser profesional de un país de la lista OKP",
+        "Trabajar en el sector público o privado en un área prioritaria",
+        "Ser nominado por su empleador",
+        "Poseer experiencia laboral y título universitario",
+        "Demostrar compromiso con el desarrollo del país"
+      ],
+      "experiencia_laboral_min": 2,
+      "idioma_requerido": "Inglés u holandés según el programa",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "si",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "alta",
+      "url_oficial": "https://www.nuffic.nl/en/international/international-programmes/individual-scholarships-orange-knowledge-programme",
+      "url_requisitos": "https://www.studyinnl.org/finances/scholarships",
+      "notas": "El programa OKP concluyó en 2024; buscar alternativas como el NL Scholarship o Erasmus+.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "paec_oea_gcub",
+      "nombre": "Programa de Alianzas para la Educación y la Capacitación (PAEC) – OEA/GCUB",
+      "institucion": "Organización de los Estados Americanos y Grupo de Cooperación Internacional de Universidades Brasileñas",
+      "pais_destino": "Brasil",
+      "nivel": [
+        "maestria",
+        "doctorado"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion"
+      ],
+      "tipo_cobertura": "parcial",
+      "duracion_max": "maestría: hasta 24 meses; doctorado: hasta 48 meses",
+      "deadline_periodo": "abril–mayo",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Ser ciudadano de un Estado miembro de la OEA y no residir en Brasil",
+        "Poseer título universitario de licenciatura o equivalente",
+        "Presentar carta de admisión de una universidad brasileña participante",
+        "Demostrar dominio intermedio de portugués (o compromiso de aprenderlo)",
+        "Comprometerse a retornar al país de origen al finalizar el programa"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "portugués (nivel intermedio a avanzado)",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "si",
+      "vacantes_aprox": 258,
+      "competitividad": "alta",
+      "url_oficial": "https://www.oas.org/en/scholarships/",
+      "url_requisitos": "https://www.gcub.org.br/wp-content/uploads/2025/07/Call-for-Application-GCUB-Mob-2025.pdf",
+      "notas": "El programa ofrece exención total de matrícula y un estipendio mensual pagado por la universidad brasileña (referencia al valor de las becas nacionales de investigación). El estudiante debe costear su seguro médico y los gastos iniciales hasta recibir la primera asignación. Se recomienda contactar la universidad elegida para conocer el monto exacto.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "rotary_peace_fellowship",
+      "nombre": "Rotary Peace Fellowship (Master’s)",
+      "institucion": "The Rotary Foundation",
+      "pais_destino": "EE. UU., Japón, Reino Unido, Australia y Suecia",
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "paz_y_desarrollo"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "seguro",
+        "materiales",
+        "investigacion"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "15-24 meses",
+      "deadline_periodo": "febrero a mayo",
+      "deadline_exacto_2026": "15 de mayo de 2026",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Poseer título de licenciatura",
+        "Tener al menos 3 años de experiencia laboral relevante en paz o desarrollo",
+        "Demostrar dominio del inglés (TOEFL/IELTS); se recomienda un segundo idioma",
+        "Compromiso demostrado con la paz y el servicio comunitario",
+        "No ser miembro activo ni empleado de Rotary International"
+      ],
+      "experiencia_laboral_min": 3,
+      "idioma_requerido": "inglés (TOEFL/IELTS); segundo idioma recomendado",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "recomendado",
+      "vacantes_aprox": "50",
+      "competitividad": "muy_alta",
+      "url_oficial": "https://www.rotary.org/en/our-programs/peace-fellowships-masters-degree-programs",
+      "url_requisitos": "http://localhost:8451/https://www.ri2660.gr.jp/ri2660/wp-content/uploads/2019/06/peace_fellowship_shinsei.pdf",
+      "notas": "Investiga cada centro de paz y sus requisitos específicos. Prepara un expediente sólido con cartas de recomendación y experiencia comprobada en paz o desarrollo. Selecciona tus centros de preferencia y envía la solicitud completa antes de mayo.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "schwarzman_scholars",
+      "nombre": "Schwarzman Scholars",
+      "institucion": "Universidad Tsinghua / Schwarzman College",
+      "pais_destino": "China",
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "seguro",
+        "materiales"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "1 año",
+      "deadline_periodo": "abril-septiembre de 2026",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "18-28 años (al 1 de agosto de 2027)",
+      "requisitos_clave": [
+        "Haber completado una licenciatura antes del inicio del programa",
+        "Demostrar aptitudes de liderazgo y compromiso con el servicio público o comunitario",
+        "Acreditar dominio del inglés (TOEFL iBT ≥ 100, IELTS ≥ 7 o Cambridge CAE/CPE ≥ 185)",
+        "Presentar currículum, ensayos y referencias académicas/profesionales"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "Inglés (TOEFL 100 / IELTS 7 / C1 Avanzado)",
+      "requiere_admision_previa": "no",
+      "requiere_retorno": "no",
+      "vacantes_aprox": "150",
+      "competitividad": "muy_alta",
+      "url_oficial": "https://www.schwarzmanscholars.org/",
+      "url_requisitos": "https://www.schwarzmanscholars.org/apply/",
+      "notas": "El programa ofrece un máster en Asuntos Globales en la Universidad Tsinghua, completamente financiado, con alojamiento, seguro médico, viajes de estudio y una computadora portátil. Los solicitantes de fuera de China deben postular entre abril y septiembre. Se recomienda comenzar la solicitud con antelación y destacar habilidades de liderazgo y compromiso internacional.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "turkiye_burslari",
+      "nombre": "Türkiye Bursları",
+      "institucion": "Presidencia de Turcos en el Extranjero y Comunidades Afines (YTB)",
+      "pais_destino": "Turquía",
+      "nivel": [
+        "licenciatura",
+        "maestria",
+        "doctorado",
+        "investigacion"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "seguro",
+        "materiales"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "1 año de curso de turco + 4 años de licenciatura; 2 años de máster; 3–4 años de doctorado",
+      "deadline_periodo": "enero-febrero",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "<21 licenciatura, <30 maestría, <35 doctorado, <50 investigación",
+      "requisitos_clave": [
+        "Ser ciudadano de un país elegible (no Turquía)",
+        "Poseer el grado académico previo con promedio mínimo (70% para licenciatura/75% para posgrado)",
+        "No estar matriculado en una universidad turca en el mismo nivel",
+        "Cumplir con los límites de edad",
+        "Carta de intención y referencias académicas"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "depende del programa; en general inglés o turco (no se exige al aplicar)",
+      "requiere_admision_previa": "no",
+      "requiere_retorno": "recomendado",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "muy_alta",
+      "url_oficial": "https://www.turkiyeburslari.gov.tr/",
+      "url_requisitos": "https://www.turkiyeburslari.gov.tr/criterias",
+      "notas": "Preparar documentos en inglés o turco y presentar una postulación completa; los beneficios incluyen curso de idioma turco, alojamiento y seguro médico.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "weidenfeld_hoffmann",
+      "nombre": "Weidenfeld-Hoffmann Scholarships and Leadership Programme",
+      "institucion": "Weidenfeld-Hoffmann Trust / Universidad de Oxford",
+      "pais_destino": "Reino Unido",
+      "nivel": [
+        "maestria"
+      ],
+      "campos_estudio": [
+        "todos"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "duración del programa de maestría (1-2 años)",
+      "deadline_periodo": "diciembre 2025 - enero 2026 (según programa)",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "verificar",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Solicitar un nuevo curso de posgrado a tiempo completo en la Universidad de Oxford",
+        "Presentar el ensayo de liderazgo y el formulario de la beca Weidenfeld-Hoffmann",
+        "Demostrar compromiso con el servicio público y la mejora de la comunidad",
+        "Dominar el inglés y cumplir los requisitos académicos del programa"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "Inglés (IELTS ≥ 7.0 o TOEFL iBT ≥ 100)",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "si",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "muy_alta",
+      "url_oficial": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/weidenfeld-hoffmann-scholarships/",
+      "url_requisitos": "https://www.whtrust.org/check-eligibility",
+      "notas": "La beca cubre el 100 % de las tasas universitarias y del college, además de un estipendio anual para manutención. Está dirigida a estudiantes de países en desarrollo que se comprometan a regresar a su país tras los estudios. La solicitud se hace junto con la postulación al curso de posgrado de Oxford y se requiere redactar un ensayo sobre liderazgo.",
+      "ultima_verificacion": "2026-05-06"
+    },
+    {
+      "id": "wellcome_international_fellowship",
+      "nombre": "Wellcome International Fellowships",
+      "institucion": "Wellcome Trust",
+      "pais_destino": "Reino Unido y países de ingresos bajos y medios",
+      "nivel": [
+        "maestria",
+        "investigacion"
+      ],
+      "campos_estudio": [
+        "salud"
+      ],
+      "cobertura": [
+        "matricula",
+        "manutencion",
+        "pasajes",
+        "materiales",
+        "investigacion"
+      ],
+      "tipo_cobertura": "total",
+      "duracion_max": "hasta 30 meses",
+      "deadline_periodo": "abril-agosto",
+      "deadline_exacto_2026": "NO VERIFICADO",
+      "elegibilidad_nacionalidad": "si",
+      "elegibilidad_edad": "sin limite",
+      "requisitos_clave": [
+        "Ser nacional de un país de ingresos bajos o medianos",
+        "Tener un título universitario en un campo de la salud o disciplina relacionada",
+        "Contar con el apoyo de una institución anfitriona elegible y supervisor",
+        "Presentar un proyecto de investigación en salud que responda a necesidades locales",
+        "Demostrar dominio del inglés"
+      ],
+      "experiencia_laboral_min": 0,
+      "idioma_requerido": "inglés",
+      "requiere_admision_previa": "si",
+      "requiere_retorno": "no",
+      "vacantes_aprox": "NO VERIFICADO",
+      "competitividad": "muy_alta",
+      "url_oficial": "https://wellcome.org/grant-funding",
+      "url_requisitos": "https://wellcome.org/grant-funding/schemes/international-masters-fellowships",
+      "notas": "Wellcome ofrece becas para másteres y formación investigativa que cubren salario, matrícula, gastos de investigación y viajes. Dirigido a investigadores de países de ingresos bajos y medios.",
+      "ultima_verificacion": "2026-05-06"
     }
   ]
 }
