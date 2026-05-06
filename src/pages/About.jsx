@@ -73,22 +73,20 @@ export default function About() {
             <div>
               <p className="font-semibold text-gray-900 text-base">Luis Valverde Ramos</p>
               <p className="text-gray-500 text-sm mt-1 leading-relaxed">
-                Politólogo (PUCP), investigador en la Liga Peruana de Debate Escolar, campeón nacional de debate interuniversitario 2025. Actualmente basado en Piura, Perú.
+                Científico político (PUCP, primer puesto de promoción) con formación en métodos cuantitativos y machine learning aplicado a políticas públicas.
               </p>
               <div className="flex flex-col gap-1.5 mt-4">
-                <a
-                  href="mailto:luis.valverde@pucp.edu.pe"
-                  className="text-sm text-blue-600 hover:underline"
-                >
+                <a href="mailto:luis.valverde@pucp.edu.pe" className="text-sm text-blue-600 hover:underline">
                   luis.valverde@pucp.edu.pe
                 </a>
-                <a
-                  href="https://github.com/LuisEduardoValverdeRamos"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-sm text-blue-600 hover:underline"
-                >
+                <a href="https://luiseduardovalverderamos.github.io/mypage" target="_blank" rel="noopener noreferrer" className="text-sm text-blue-600 hover:underline">
+                  luiseduardovalverderamos.github.io/mypage
+                </a>
+                <a href="https://github.com/LuisEduardoValverdeRamos" target="_blank" rel="noopener noreferrer" className="text-sm text-blue-600 hover:underline">
                   github.com/LuisEduardoValverdeRamos
+                </a>
+                <a href="https://www.linkedin.com/in/luisvalverderamos/" target="_blank" rel="noopener noreferrer" className="text-sm text-blue-600 hover:underline">
+                  linkedin.com/in/luisvalverderamos
                 </a>
               </div>
             </div>
