@@ -73,20 +73,17 @@ export default function About() {
             <div>
               <p className="font-semibold text-gray-900 text-base">Luis Valverde Ramos</p>
               <p className="text-gray-500 text-sm mt-1 leading-relaxed">
-                Científico político (PUCP, primer puesto de promoción) con formación en métodos cuantitativos y machine learning aplicado a políticas públicas.
+                Científico político (PUCP) con formación en métodos cuantitativos y machine learning. Estudió gracias a una beca, y creó BecasMundo para que otros puedan encontrar la suya.
               </p>
-              <div className="flex flex-col gap-1.5 mt-4">
-                <a href="mailto:luis.valverde@pucp.edu.pe" className="text-sm text-blue-600 hover:underline">
-                  luis.valverde@pucp.edu.pe
+              <div className="flex gap-2 mt-4">
+                <a href="mailto:luis.valverde@pucp.edu.pe" title="Email" className="inline-flex items-center gap-1.5 text-xs font-medium px-3 py-1.5 rounded-full border border-gray-200 text-gray-600 hover:border-blue-400 hover:text-blue-600 transition-colors">
+                  ✉ Email
                 </a>
-                <a href="https://luiseduardovalverderamos.github.io/mypage" target="_blank" rel="noopener noreferrer" className="text-sm text-blue-600 hover:underline">
-                  luiseduardovalverderamos.github.io/mypage
+                <a href="https://luiseduardovalverderamos.github.io/mypage" target="_blank" rel="noopener noreferrer" title="Web personal" className="inline-flex items-center gap-1.5 text-xs font-medium px-3 py-1.5 rounded-full border border-gray-200 text-gray-600 hover:border-blue-400 hover:text-blue-600 transition-colors">
+                  🌐 Web
                 </a>
-                <a href="https://github.com/LuisEduardoValverdeRamos" target="_blank" rel="noopener noreferrer" className="text-sm text-blue-600 hover:underline">
-                  github.com/LuisEduardoValverdeRamos
-                </a>
-                <a href="https://www.linkedin.com/in/luisvalverderamos/" target="_blank" rel="noopener noreferrer" className="text-sm text-blue-600 hover:underline">
-                  linkedin.com/in/luisvalverderamos
+                <a href="https://www.linkedin.com/in/luisvalverderamos/" target="_blank" rel="noopener noreferrer" title="LinkedIn" className="inline-flex items-center gap-1.5 text-xs font-medium px-3 py-1.5 rounded-full border border-gray-200 text-gray-600 hover:border-blue-400 hover:text-blue-600 transition-colors">
+                  in LinkedIn
                 </a>
               </div>
             </div>
